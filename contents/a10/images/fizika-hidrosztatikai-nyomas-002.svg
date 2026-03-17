@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fizika-hidrosztatikai-nyomas-002.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9469416"
+     inkscape:cx="131.83159"
+     inkscape:cy="102.30946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 5.6024179,46.399516 H 95.456585"
+       id="path4627" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 12.228357,46.399516 -5.1714642,4.20181"
+       id="path4629" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 23.181799,46.525217 -5.171464,4.20181"
+       id="path4629-6" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 35.481986,46.507254 -5.171464,4.20181"
+       id="path4629-2" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 47.458947,46.543174 -5.171464,4.20181"
+       id="path4629-61" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 59.256344,46.381562 -5.171464,4.20181"
+       id="path4629-8" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 70.730521,46.632951 -5.171464,4.20181"
+       id="path4629-7" />
+    <path
+       style="fill:none;stroke:#786721;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 83.012751,46.471344 -5.171464,4.20181"
+       id="path4629-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 5.6024205,27.329748 c -0.1175763,6.792465 0.6892624,13.122722 4.8482475,17.776903 5.656288,1.12077 11.312575,1.763971 16.968863,0.323215 6.02433,-5.104144 5.617092,-11.586474 5.817894,-17.938511"
+       id="path4758"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 47.620559,28.299396 c -1.973525,4.206676 -3.455057,8.085362 -6.625936,13.090265 -1.130092,3.392608 0.782437,3.742595 2.58573,4.201819 4.393194,0.677975 9.5594,0.776189 15.675999,0.161607 2.595845,-0.237358 2.888785,-2.919026 1.777686,-4.363427 -4.104663,-4.794375 -5.11256,-8.780709 -7.433972,-13.575084"
+       id="path4814"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="15.137301"
+       y="43.813786"
+       id="text4818"><tspan
+         sodipodi:role="line"
+         id="tspan4816"
+         style="stroke-width:0.264583"
+         x="15.137301"
+         y="43.813786">P1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="48.4286"
+       y="43.167351"
+       id="text4822"><tspan
+         sodipodi:role="line"
+         id="tspan4820"
+         style="stroke-width:0.264583"
+         x="48.4286"
+         y="43.167351">P2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 72.50823,27.006535 c -0.183875,6.033372 -0.992798,12.066744 0,18.100116 l 1.131257,0.484821 c 3.648556,1.023168 5.724662,0.194933 6.787542,-0.484821 1.048321,-5.683936 0.100785,-12.03315 0,-18.100117 l -0.161609,0.16161"
+       id="path4824"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="74.447517"
+       y="43.167351"
+       id="text4828"><tspan
+         sodipodi:role="line"
+         id="tspan4826"
+         style="stroke-width:0.264583"
+         x="74.447517"
+         y="43.167351">P3</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 5.9256347,33.147643 c 0,-0.329643 3.8990546,-1.949963 3.7169886,-1.131261 -0.2870301,1.290698 3.1437827,1.506252 3.3937737,1.131261 0.748888,-1.462394 2.661659,-1.178975 4.201813,-1.454476 0.475791,1.409639 2.504447,1.266412 4.201813,1.454476 1.185128,-1.461403 2.370256,-1.377521 3.555384,-1.616083 0.824621,0.863974 1.574229,1.840468 3.232166,1.454475 1.185126,-1.417627 2.370252,-1.253511 3.555378,-1.454475 l 0.969647,0.484822"
+       id="path4830"
+       sodipodi:nodetypes="csccccccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 45.196434,33.632465 c 0.416738,1.173908 1.264718,1.054091 2.100905,0.969653 0.179613,-0.622474 0.338252,-1.251939 1.777693,-1.454475 0.500421,0.684705 0.785341,1.584911 2.100903,1.454475 -0.161601,-0.7003 0.32322,-1.185127 1.454476,-1.454475 0.347045,0.630546 0.369704,1.477349 1.939298,1.292862 -0.138614,-1.285315 0.59354,-1.264465 1.292862,-1.292862"
+       id="path4832"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 72.346618,33.955683 c 0.538694,-0.646428 1.077389,-0.861909 1.616083,-0.646433 0.387232,0.582416 0.716806,1.222489 1.939295,0.969648 0.167141,-0.535002 0.05803,-1.254173 1.45447,-0.969648 0.592565,1.261501 1.185131,0.921324 1.777696,0.969648 0.484823,-0.895309 0.969645,-0.911253 1.454468,-0.969648"
+       id="path4834"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="72.185013"
+       y="6.8055"
+       id="text4890"><tspan
+         sodipodi:role="line"
+         id="tspan4888"
+         style="stroke:#000000;stroke-width:0.264583"
+         x="72.185013"
+         y="6.8055">Egyenlő nyomás</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="13.682832"
+       y="36.703018"
+       id="text4944"><tspan
+         sodipodi:role="line"
+         id="tspan4942"
+         style="stroke-width:0.264583;stroke:#0000ff"
+         x="13.682832"
+         y="36.703018">Sfoly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="46.812515"
+       y="38.480709"
+       id="text4948"><tspan
+         sodipodi:role="line"
+         id="tspan4946"
+         style="stroke-width:0.264583"
+         x="46.812515"
+         y="38.480709">Sfoly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="73.316261"
+       y="38.157497"
+       id="text4952"><tspan
+         sodipodi:role="line"
+         id="tspan4950"
+         style="stroke-width:0.264583"
+         x="73.316261"
+         y="38.157497">Sfoly</tspan></text>
+  </g>
+</svg>

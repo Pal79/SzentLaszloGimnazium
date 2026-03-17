@@ -1,0 +1,100 @@
+<!-- parabola.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-label="Parabola y = x^2 - 2x - 3">
+  <!-- háttér -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <!-- paraméterek (értelmezés math -> svg):
+       x range: [-3, 5], y range: [-6, 12]
+       margin: 50 -> térképítés: (x,y) -> svg (sx,sy)
+  -->
+
+  <!-- háló (finom vonalak) -->
+  <g stroke="#eee" stroke-width="1">
+    <!-- függőleges grid -->
+    <line x1="112.5" x2="112.5" y1="50" y2="350" />
+    <line x1="175" x2="175" y1="50" y2="350" />
+    <line x1="237.5" x2="237.5" y1="50" y2="350" />
+    <line x1="300" x2="300" y1="50" y2="350" />
+    <line x1="362.5" x2="362.5" y1="50" y2="350" />
+    <line x1="425" x2="425" y1="50" y2="350" />
+    <line x1="487.5" x2="487.5" y1="50" y2="350" />
+  </g>
+
+  <!-- tengelyek -->
+  <g stroke="#333" stroke-width="2" stroke-linecap="round">
+    <!-- x tengely (y = 0) -->
+    <line x1="50" y1="250" x2="550" y2="250" />
+    <!-- y tengely (x = 0) -->
+    <line x1="237.5" y1="50" x2="237.5" y2="350" />
+  </g>
+
+  <!-- tengely feliratok és skálapontok -->
+  <g font-family="sans-serif" font-size="12" fill="#111" text-anchor="middle">
+    <!-- x-tick: -1, 0, 1, 2, 3 -->
+    <line x1="175" x2="175" y1="246" y2="254" stroke="#333" stroke-width="1"/>
+    <text x="175" y="268">-1</text>
+
+    <line x1="237.5" x2="237.5" y1="246" y2="254" stroke="#333" stroke-width="1"/>
+    <text x="237.5" y="268">0</text>
+
+    <line x1="300" x2="300" y1="246" y2="254" stroke="#333" stroke-width="1"/>
+    <text x="300" y="268">1</text>
+
+    <line x1="362.5" x2="362.5" y1="246" y2="254" stroke="#333" stroke-width="1"/>
+    <text x="362.5" y="268">2</text>
+
+    <line x1="425" x2="425" y1="246" y2="254" stroke="#333" stroke-width="1"/>
+    <text x="425" y="268">3</text>
+
+    <!-- y ticks (a gyors szemléltetéshez néhány érték) -->
+    <line x1="44" x2="56" y1="50" y2="50" stroke="#333" stroke-width="1"/>
+    <text x="30" y="54" text-anchor="end">12</text>
+
+    <line x1="44" x2="56" y1="200" y2="200" stroke="#333" stroke-width="1"/>
+    <text x="30" y="204" text-anchor="end">0</text>
+
+    <line x1="44" x2="56" y1="316.6667" y2="316.6667" stroke="#333" stroke-width="1"/>
+    <text x="30" y="320.6667" text-anchor="end">-4</text>
+  </g>
+
+  <!-- parabola görbe: y = x^2 - 2x - 3
+       Pontok aprox.: x = -3, -2.5, -2, ..., 5 (leképezve a fenti koordinátákra)
+  -->
+  <path d="
+    M 50.0 50.0
+    L 81.25 112.5
+    L 112.5 166.66666666666669
+    L 143.75 212.5
+    L 175.0 250.0
+    L 206.25 279.1666666666667
+    L 237.5 300.0
+    L 268.75 312.5
+    L 300.0 316.6666666666667
+    L 331.25 312.5
+    L 362.5 300.0
+    L 393.75 279.1666666666667
+    L 425.0 250.0
+    L 456.25 212.5
+    L 487.5 166.66666666666669
+    L 518.75 112.5
+    L 550.0 50.0
+  " fill="none" stroke="#d9534f" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- jelölések: gyökök és csúcs -->
+  <g fill="#000" font-family="sans-serif" font-size="13">
+    <!-- gyök 1: x = -1 -->
+    <circle cx="175" cy="250" r="4" fill="#2b7cff"/>
+    <text x="175" y="240" text-anchor="middle">(-1, 0)</text>
+
+    <!-- gyök 2: x = 3 -->
+    <circle cx="425" cy="250" r="4" fill="#2b7cff"/>
+    <text x="425" y="240" text-anchor="middle">(3, 0)</text>
+
+    <!-- csúcs: (1, -4) -->
+    <circle cx="300" cy="316.6667" r="4" fill="#3cb371"/>
+    <text x="300" y="332" text-anchor="middle">(1, -4)</text>
+  </g>
+
+  <!-- felirat: képlet -->
+  <text x="60" y="30" font-family="sans-serif" font-size="14" fill="#111">Parabola: y = x² − 2x − 3</text>
+</svg>

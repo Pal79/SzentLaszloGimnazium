@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 105.83333 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="matematika-trigonometria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.096401"
+     inkscape:cx="201.05886"
+     inkscape:cy="147.39546"
+     inkscape:window-width="1394"
+     inkscape:window-height="895"
+     inkscape:window-x="76"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 89.986561,65.153053 H 10.25 V 10 Z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="5.0483341"
+       y="40.008049"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:4.93889px;fill:#1a1a1a;stroke-width:0.264583"
+         x="5.0483341"
+         y="40.008049">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="39.755634"
+       y="70.802887"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:4.93889px;fill:#1a1a1a;stroke-width:0.264583"
+         x="39.755634"
+         y="70.802887">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="46.69709"
+       y="32.056923"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:4.93889px;fill:#1a1a1a;stroke-width:0.264583"
+         x="46.69709"
+         y="32.056923">c</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 71.055306,51.871636 c -3.43624,3.388193 -4.78283,7.480203 -3.91246,12.99946"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 9.9704603,51.997845 C 19.679522,51.766936 23.348414,56.569502 22.969921,64.744888"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.264583"
+       id="path5"
+       cx="13.062565"
+       cy="62.788662"
+       r="0.94656265" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.264583"
+       x="73.45327"
+       y="61.842094"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="73.45327"
+         y="61.842094">⍺</tspan></text>
+  </g>
+</svg>

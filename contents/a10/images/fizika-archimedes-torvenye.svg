@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="fizika-archimedes-torvenye.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.87211"
+     inkscape:cx="213.08376"
+     inkscape:cy="95.05207"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect91"
+       width="18.792805"
+       height="9.3964024"
+       x="41.178352"
+       y="27.26799" />
+    <g
+       id="g93"
+       transform="translate(-0.03604823,-0.900745)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         d="M 49.929901,33.900745 V 44.218362"
+         id="path91" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         d="m 48.363832,42.744416 1.551305,5.789546 1.600996,-5.974999"
+         id="path92" />
+    </g>
+    <g
+       id="g92"
+       transform="translate(-0.09327823,-4.7625002)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         d="M 49.987131,32.213805 V 21.896188"
+         id="path91-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         d="m 48.421062,23.370134 1.551305,-5.789546 1.600996,5.974999"
+         id="path92-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="51.403843"
+       y="16.397644"
+       id="text93"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         style="stroke-width:0.264583"
+         x="51.403843"
+         y="16.397644">F<tspan
+   style="font-size:2.11667px"
+   id="tspan95">h</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="51.035358"
+       y="45.96867"
+       id="text94"><tspan
+         sodipodi:role="line"
+         id="tspan94"
+         style="stroke-width:0.264583"
+         x="51.035358"
+         y="45.96867">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="9.6727676"
+       y="26.438894"
+       id="text96"><tspan
+         sodipodi:role="line"
+         id="tspan96"
+         style="stroke-width:0.264583"
+         x="9.6727676"
+         y="26.438894">S<tspan
+   style="font-size:2.11667px"
+   id="tspan97">foly</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583"
+       d="m 6.2642678,23.491005 c 3.1539054,-1.183608 6.0888282,-1.272306 8.7515512,0 3.531327,1.102017 7.062655,1.200591 10.593982,0.09212 3.086131,-0.911875 6.213019,-1.734087 10.50186,0 3.162842,0.888281 6.325683,0.830927 9.488525,0 4.565168,-1.791293 6.671025,-0.508447 9.396401,0 3.474878,1.190591 7.273834,0.922833 11.238833,-0.09212 6.287801,-1.605863 10.109881,-0.472036 14.278846,0.276364 5.195975,1.360805 9.057877,0.720501 12.804902,-0.09212 3.351678,-0.982995 6.105041,-0.918937 8.475182,-0.184243"
+       id="path97"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#0000ff;stroke-width:0.264583"
+       x="15.200062"
+       y="7.4618487"
+       id="text98"><tspan
+         sodipodi:role="line"
+         id="tspan98"
+         style="stroke-width:0.264583"
+         x="15.200062"
+         y="7.4618487" /></text>
+  </g>
+</svg>

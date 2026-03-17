@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (unknown)"
+   sodipodi:docname="foldrajz-postindustrialis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.0092401"
+     inkscape:cx="202.04436"
+     inkscape:cy="104.67759"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="path1"
+       cx="49.764778"
+       cy="28.179523"
+       rx="19.958666"
+       ry="19.650932" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       d="M 62.513704,24.882389 77.109028,17.40888"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       d="m 56.710746,37.103774 24.970311,6.682195"
+       id="path4" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="73.152466"
+       y="16.090025"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.264583"
+         x="73.152466"
+         y="16.090025">Társadalom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="73.064537"
+       y="46.863297"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="73.064537"
+         y="46.863297">Természet</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 34.729835,34.553988 c -5.763827,-1.154796 -9.056304,-1.142803 -9.583675,-4.220335 0.03241,-6.347342 6.983197,-2.287629 9.759524,-5.539187 -0.325189,-6.572371 -3.490681,-8.269666 -2.110168,-11.078379 4.920614,-3.499898 7.051245,0.05934 11.430073,-0.08792 5.364264,-3.212069 0.576612,-9.6579722 9.056135,-9.6716003 9.256117,1.7795299 0.156521,7.3842283 3.165251,10.8146073 4.664435,1.489391 7.36869,-2.708326 10.287065,0.08792 5.29962,4.05517 -2.594496,7.96433 -1.582625,12.309309 1.481649,3.054599 9.504869,0.497027 9.407829,6.945967 -3.54663,7.270086 -13.21785,-3.198205 -19.870742,0.08792 -3.829314,8.278501 7.543209,11.676037 2.286015,15.738331 -7.698751,1.147353 -6.761393,-4.473502 -10.63876,-6.945968 -6.694514,3.143424 -10.008621,8.947854 -14.067782,5.451266 -3.94967,-5.498962 6.724705,-10.758673 2.46186,-13.891931 z"
+       id="path5"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+</svg>

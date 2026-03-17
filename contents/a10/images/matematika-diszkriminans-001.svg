@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 105.83333 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="matematika-diszkriminans-001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8802096"
+     inkscape:cx="198.64806"
+     inkscape:cy="153.97219"
+     inkscape:window-width="1346"
+     inkscape:window-height="844"
+     inkscape:window-x="87"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 0,40.132291 H 105.68081"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 50.132291,0 V 79.647589"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 25.470342,19.560097 C 33.958691,50.537472 40.266639,54.337923 50.096364,54.599408 60.563758,54.639069 70.343252,36.5791 75.285266,19.278657"
+       id="path3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 32.787788,38.698035 -0.985041,2.95512"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 30.114107,38.275873 3.518003,2.673684"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 65.997737,37.853712 1.547921,3.799443"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 64.871978,40.668117 4.221601,-1.266481"
+       id="path7" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Matek Jegyzet</title>
+    
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+        .keplet { background: #f4f4f4; padding: 10px; border-radius: 5px; }
+        .container {
+            background-color: aqua;
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        container
+    </div>
+    <a href="../matematika.html">Vissza</a>
+
+    <h1>Nevezetes szögfüggvények</h1>
+    <p class="keplet">
+        Nevezetes szögeknek szoktuk mondani a \\30^{\circ}$-os, a $45^{\circ}$-os és a $60^{\circ}\\-os szögeket.  
+        Ezen szögek szögfüggvényeinek pontos értékét az alábbiakban lehet meghatározni.
+    </p>
+    <ol>
+        <li class="keplet">
+            A $45^{\circ}$-os szög szögfüggvényeinek meghatározásához tekintsük az ábrán az egységnyi befogójú derékszögű háromszöget. Ennek hegyesszögei $45^{\circ}$-osak. Átfogóját Pitagorász tétele segítségével kapjuk: $BA = c = \sqrt{2}$.
+            <img src="../images/matematika-nevezetes-szogfuggvenyek-001.png" alt="nevezetes szögfüggvények 30, 60">
+            <ul>
+                <li class="keplet">
+                    A szögfüggvényeinek  definíciója szerint:  
+                    $tg45^{\circ} = ctg^{\circ} = 1 \text{ és } sin45^{\circ} = cos45^{\circ} = \frac{1}{\sqrt{2}}$.
+                </li>
+                <li class="keplet">
+                    Ez utóbbi esetben a számlálót és a nevezőt $\sqrt{2}$​-vel szorova kapjuk:  
+                    $sin45^{\circ} = cos45^{\circ} = \frac{\sqrt{2}}{2}$
+                </li>
+            </ul>
+        </li>
+        <li class="keplet">
+            A $30^{\circ}$-os és $60^{\circ}$-os szögek szögfüggvényeinek meghatározásához egy 2 egység oldalú szabályos háromszögre van szükségünk. Húzzuk meg ennek egyik szögfelezőjét. (A mellékelt ábrán CF szakasz). Ez egyben oldalfelező merőleges is. A mellékelt ábra jelöléseit használva a CF felezőmerőleges szakasz  hossza Pitagorász tételének felhasználásával: $CF=​\sqrt{3}$ .
+            <img src="../images/matematika-nevezetes-szogfuggvenyek-002.png" alt="nevezetes szögfüggvények 30, 90">
+            <ul>
+                <li>A szögfüggvények definíciója szerint:</li>
+                <ul>
+                    <li class="keplet">$sin30^{\circ} = \frac{1}{2}$, $cos30^{\circ} = \frac{\sqrt{3}}{2}$, $tg30^{\circ} = \frac{\sqrt{3}}{2}$ és $ctg30^{\circ} = \sqrt{3}$  </li>
+                    <li class="keplet">$sin60^{\circ} = \frac{\sqrt{3}}{2}$, $cos60^{\circ} = \frac{1}{2}$, $tg60^{\circ} = \sqrt{3}$ és $ctg60^{\circ} = \frac{\sqrt{3}}{3}$</li>
+                </ul>
+            </ul>
+        </li>
+    </ol>
+
+    <p>Összefoglaló táblázat:</p>
+    <table>
+        <tr>
+            <th></th>
+            <th class="keplet">$30^{\circ}$</th>
+            <th class="keplet">$45^{\circ}$</th>
+            <th class="keplet">$60^{\circ}$</th>
+        </tr>
+        <tr>
+            <td>sin</td>
+            <td class="keplet">$\frac{1}{2}$</td>
+            <td class="keplet">$\frac{\sqrt{2}}{2}$</td>
+            <td class="keplet">$\frac{\sqrt{3}}{2}$</td>
+        </tr>
+        <tr>
+            <td>cos</td>
+            <td class="keplet">$\frac{\sqrt{3}}{2}$</td>
+            <td class="keplet">$\frac{\sqrt{2}}{2}$</td>
+            <td class="keplet">$\frac{1}{2}$</td>
+        </tr>
+        <tr>
+            <td>tg</td>
+            <td class="keplet">$\frac{\sqrt{3}}{3}$</td>
+            <td class="keplet">$1$</td>
+            <td class="keplet">$\sqrt{3}$</td>
+        </tr>
+        <tr>
+            <td>ctg</td>
+            <td class="keplet">$\sqrt{3}$</td>
+            <td class="keplet">$1$</td>
+            <td class="keplet">$\frac{\sqrt{3}}{3}$</td>
+        </tr>
+    </table>
+
+    <h2>Vektorok</h2>
+    <img src="../images/vektorok.drawio.svg" alt="vektorok">
+
+    <a href="../matematika.html">Vissza</a>
+</body>
+</html>
