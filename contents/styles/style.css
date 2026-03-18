@@ -8,6 +8,9 @@ body {
 .container h1 {
     text-align: center;
 }
+.container h3 {
+    margin-left: 10px;
+}
 
 .container main {
     margin-left: 20px;
@@ -37,3 +40,9 @@ body {
 .container .navbar li {
     float: left;
 }
+
+main {}
+
+main h3 {}
+
+main p {}
