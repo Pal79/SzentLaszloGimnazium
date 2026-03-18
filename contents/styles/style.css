@@ -1,22 +1,26 @@
 body {
     margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
 }
+
+/* CONTAINER -->> */
 .container {
     width: 98%;
 }
-
 .container h1 {
     text-align: center;
 }
 .container h3 {
     margin-left: 10px;
 }
-
 .container main {
     margin-left: 20px;
     margin-right: 20px;
 }
+/* <<-- CONTAINER */
 
+/* NAVBAR -->> */
 .container ul {
     list-style-type: none;
     background-color: hsl(0, 0%, 25%);
@@ -24,7 +28,6 @@ body {
     margin: 0px;
     overflow: hidden;
 }
-
 .container .navbar a {
     color: white;
     text-decoration: none;
@@ -32,17 +35,53 @@ body {
     display: block;
     text-align: center;
 }
-
 .container .navbar a:hover {
     background-color: hsl(0, 0%, 10%);
 }
-
 .container .navbar li {
     float: left;
 }
+/* <<-- NAVBAR */
 
-main {}
+/* CONTENT -->> */
+main {
+    padding: 10px;
+    color: rgb(63, 69, 74);
+    background-color: white;
+}
+main h2 {
+    font-size: large;
+    text-decoration: underline;
+}
+main h3 {
+    font-size: medium;
+    text-decoration: underline;
+}
+main h4 {
+    font-size: small;
+    text-decoration: underline;
+}
 
-main h3 {}
+main table {
+    border: 1px solid black;
+}
+main table tr {
+    background-color: aquamarine;
+}
+main table tr:nth-child(even) {
+    background-color: aqua;
+}
+/* <<-- CONTENT */
 
-main p {}
+
+/* SMARTPHONE */
+@media (max-width: 640px) {}
+
+/* TABLET */
+@media (max-width: 768px) {}
+
+/* DESKTOP */
+@media (max-width: 1200px) {}
+
+/* LARGE DESKTOP */
+@media (max-width: 1400px) {}
