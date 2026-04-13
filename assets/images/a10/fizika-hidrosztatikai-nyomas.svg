@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fizika-hidrosztatikai-nyomas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9469416"
+     inkscape:cx="131.83159"
+     inkscape:cy="102.30946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 16.753383,19.823938 V 43.580347 H 76.225212 V 19.662328 Z"
+       id="path881" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 16.753383,19.662328 6.14111,-6.787546"
+       id="path915" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 76.063599,19.662328 6.302716,-6.949153"
+       id="path917" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 76.06361,43.580341 6.464329,-6.787544"
+       id="path919" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+       d="M 16.753383,43.580347 23.0561,36.792798"
+       id="path921" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 22.894493,12.874782 h 59.31022 l 0.323216,24.079624"
+       id="path923" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+       d="M 22.750843,12.874782 23.074058,36.63119"
+       id="path1602" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+       d="m 23.074058,36.792798 h 59.31022"
+       id="path1604" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 22.750838,13.197999 v 6.787546"
+       id="path1606" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="42.933914"
+       y="41.479439"
+       id="text3130"><tspan
+         sodipodi:role="line"
+         id="tspan3128"
+         style="stroke-width:0.264583"
+         x="42.933914"
+         y="41.479439">Ph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="17.399817"
+       y="32.267773"
+       id="text3134"><tspan
+         sodipodi:role="line"
+         id="tspan3132"
+         style="stroke-width:0.264583"
+         x="17.399817"
+         y="32.267773">Sfoly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="77.194847"
+       y="30.328472"
+       id="text3138"><tspan
+         sodipodi:role="line"
+         id="tspan3136"
+         style="stroke-width:0.264583"
+         x="77.194847"
+         y="30.328472">h</tspan></text>
+  </g>
+</svg>

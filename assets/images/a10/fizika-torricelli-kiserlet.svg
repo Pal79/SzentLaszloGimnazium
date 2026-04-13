@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fizika-torricelli-kiserlet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9469416"
+     inkscape:cx="186.9735"
+     inkscape:cy="102.30946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 6.010734,18.664627 V 50.08527 H 87.704407 V 18.479799"
+       id="path122" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.0756492"
+       d="m 6.3803886,33.081165 c 2.9065467,-2.768527 6.2166374,-3.11577 9.6110214,-2.957252 5.712035,0.721718 7.112825,2.16196 10.165503,3.326899 4.556722,2.026038 7.804154,0.124213 10.904812,-2.217921 2.411902,-1.293304 5.132659,-2.154212 12.38343,3.326881 5.654655,2.917088 9.182842,-0.545231 12.937913,-3.326881 2.934482,-1.42366 6.379197,-1.316612 11.274467,3.142062 2.817314,0.929306 5.712919,1.545501 9.980669,-3.326899 2.465143,-1.480423 2.964132,1.626822 4.066203,3.326899"
+       id="path290"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.0206124"
+       d="m 36.836089,19.890108 c 0.318514,-1.875633 0.681244,-2.110882 1.053216,-2.003488 0.625945,0.488951 0.779449,1.464691 1.113974,2.253923 0.499343,1.3726 0.855209,0.08414 1.194993,-1.502609 0.264305,-0.876194 0.562453,-1.459443 1.357021,2.253913 0.61966,1.976274 1.006295,-0.369392 1.417786,-2.253913 0.321576,-0.964506 0.69906,-0.891981 1.2355,2.128696 0.308736,0.629591 0.626045,1.047049 1.09372,-2.253923 0.270142,-1.002962 0.324821,1.102143 0.44559,2.253923"
+       id="path290-3"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 36.692068,48.236997 v -37.15029 h 9.056539 v 36.96547"
+       id="path442" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 21.721056,11.641191 V 25.688072"
+       id="path476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 18.57899,21.806689 3.552832,6.153685 3.553719,-6.155218"
+       id="path478" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 12.376525,12.212805 V 26.259677"
+       id="path476-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 9.2344601,22.378303 3.5528319,6.153685 3.553719,-6.155227"
+       id="path478-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 30.653892,12.418167 V 26.465048"
+       id="path476-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 27.511831,22.583664 3.552829,6.153686 3.553719,-6.155219"
+       id="path478-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0491895"
+       d="m 50.39098,22.054486 v 9.133706"
+       id="path476-5-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0491895"
+       d="m 48.347915,28.664406 2.310158,4.001317 2.310739,-4.002321"
+       id="path478-3-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 60.226264,12.418167 V 26.465048"
+       id="path476-56" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 57.084203,22.583664 3.55283,6.153686 3.553716,-6.155219"
+       id="path478-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 69.673,11.904758 V 25.951639"
+       id="path476-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 66.53093,22.070256 3.55283,6.153685 3.553725,-6.155228"
+       id="path478-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 78.708995,12.623529 V 26.67041"
+       id="path476-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 75.566934,22.789035 3.55283,6.153677 3.553716,-6.155219"
+       id="path478-70" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="m 46.672745,19.034284 h 8.132403"
+       id="path589" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0491895"
+       d="M 52.821924,24.425659 50.511766,20.424342 48.20103,24.426654"
+       id="path478-3-3-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0756492"
+       d="M 50.369289,26.242548 76.799596,6.2812003"
+       id="path662" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="78.810951"
+       y="7.4519343"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         style="stroke-width:0.264583"
+         x="78.810951"
+         y="7.4519343">760</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="38.893715"
+       y="39.773579"
+       id="text834"><tspan
+         sodipodi:role="line"
+         id="tspan832"
+         style="stroke-width:0.264583"
+         x="38.893715"
+         y="39.773579">P</tspan></text>
+  </g>
+</svg>

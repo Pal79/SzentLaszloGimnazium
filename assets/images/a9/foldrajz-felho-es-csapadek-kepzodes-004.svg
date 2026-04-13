@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   sodipodi:docname="foldrajz-felho-es-csapadek-kepzodes-004.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8614198"
+     inkscape:cx="203.74501"
+     inkscape:cy="78.807031"
+     inkscape:window-width="1870"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffdd55;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       d="m 11.778822,39.733611 84.143833,-0.09246"
+       id="path54" />
+    <path
+       style="fill:#ffdd55;fill-opacity:1;stroke:#554400;stroke-width:0.264999;stroke-opacity:1"
+       d="m 11.64181,39.912455 84.143833,-0.09246"
+       id="path54-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       x="14.517123"
+       y="38.003426"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.265"
+         x="14.517123"
+         y="38.003426">jégpáncél</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       x="26.722601"
+       y="43.089039"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         style="stroke-width:0.265"
+         x="26.722601"
+         y="43.089039">Hideg felület (pl.: beton)</tspan></text>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       d="m 47.865048,22.19178 c 1.144203,2.267171 3.073498,1.443479 3.176048,-0.277397 -0.499014,-2.337358 -1.497636,-2.926088 -2.311646,-4.160959 -1.117422,2.159886 -1.060389,3.351259 -0.864402,4.438356 z"
+       id="path55"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       x="57.791096"
+       y="9.9863005"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="stroke-width:0.265"
+         x="57.791096"
+         y="9.9863005">Túlhűlt vzcsepp</tspan></text>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       d="m 53.352739,18.400684 7.39726,-5.547945"
+       id="path56" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       d="m 53.075342,15.534246 -0.739727,3.421233 3.513699,0.184932"
+       id="path57" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-opacity:1"
+       d="m 42.626711,39.616552 c 2.088227,-1.37149 4.477429,-2.141031 7.304794,-2.034246 2.589041,0.209466 5.178083,0.519944 7.767124,1.94178"
+       id="path58"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

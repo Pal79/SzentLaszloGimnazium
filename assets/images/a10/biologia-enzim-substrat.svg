@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="378"
+   height="208"
+   viewBox="0 0 100.01251 55.033332"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="biologia-enzim-substrat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8471661"
+     inkscape:cx="175.96444"
+     inkscape:cy="98.870242"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.22008"
+       d="M 5.0806414,23.588562 C 6.8065185,18.166543 8.3226428,10.730065 17.757487,10.757119 27.776713,10.621678 28.118931,18.313212 30.047844,23.356668 l -6.261125,0.231894 c -0.632591,-1.481277 0.113803,-4.212304 -3.632998,-4.096787 -2.496889,0.145253 -2.512224,2.62811 -2.628128,4.174083 h -3.787592 l -2.241639,-4.096786 -2.318935,4.019489 z"
+       id="path19"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.22008"
+       d="M 38.428652,51.287124 C 40.15453,45.865105 41.670654,38.428627 51.105498,38.455681 61.124724,38.32024 61.466942,46.011774 63.395855,51.05523 l -6.261125,0.231894 c -0.632591,-1.481277 0.113803,-4.212304 -3.632998,-4.096787 -2.496889,0.145253 -2.512224,2.62811 -2.628128,4.174083 h -3.787592 l -2.241639,-4.096786 -2.318935,4.019489 z"
+       id="path19-66"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.22008"
+       d="m 64.973427,23.791148 c 1.725878,-5.422019 3.242002,-12.858497 12.676846,-12.831443 10.019226,-0.135441 10.361444,7.556093 12.290357,12.599549 l -6.261125,0.231894 c -0.632591,-1.481277 0.113803,-4.212304 -3.632998,-4.096787 -2.496889,0.145253 -2.512224,2.62811 -2.628128,4.174083 h -3.787592 l -2.241639,-4.096786 -2.318935,4.019489 z"
+       id="path19-6"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.22008"
+       d="M 5.0692338,51.479471 C 6.7951118,46.057452 8.3112358,38.620974 17.74608,38.648028 27.765306,38.512587 28.107524,46.204121 30.036437,51.247577 l -6.261125,0.231894 c -0.632591,-1.481277 0.113803,-4.212304 -3.632998,-4.096787 -2.496889,0.145253 -2.512224,2.62811 -2.628128,4.174083 H 13.726594 L 11.484955,47.459981 9.1660198,51.47947 Z"
+       id="path19-6-8"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path20"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="38.28661"
+       sodipodi:cy="5.5757198"
+       sodipodi:r1="3.0778892"
+       sodipodi:r2="1.5389446"
+       sodipodi:arg1="0.50416596"
+       sodipodi:arg2="1.5513635"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 40.981541,7.0625784 -5.330054,0.103591 2.575314,-4.6677576 z"
+       inkscape:transform-center-x="-0.029904146"
+       inkscape:transform-center-y="-0.74342936"
+       transform="translate(-2.1373592,3.9030039)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path20-5"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="38.28661"
+       sodipodi:cy="5.5757198"
+       sodipodi:r1="3.0778892"
+       sodipodi:r2="1.5389446"
+       sodipodi:arg1="0.50416596"
+       sodipodi:arg2="1.5513635"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 40.981541,7.0625784 -5.330054,0.103591 2.575314,-4.6677576 z"
+       inkscape:transform-center-x="-0.029904146"
+       inkscape:transform-center-y="-0.74342936"
+       transform="translate(33.099671,17.712959)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path20-5-3"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="38.28661"
+       sodipodi:cy="5.5757198"
+       sodipodi:r1="3.0778892"
+       sodipodi:r2="1.5389446"
+       sodipodi:arg1="0.50416596"
+       sodipodi:arg2="1.5513635"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 40.981541,7.0625784 -5.330054,0.103591 2.575314,-4.6677576 z"
+       inkscape:transform-center-x="-0.029904146"
+       inkscape:transform-center-y="-0.74342936"
+       transform="translate(-26.765479,45.282767)" />
+    <ellipse
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path21"
+       cx="42.607792"
+       cy="8.7352943"
+       rx="2.5555382"
+       ry="2.4161451" />
+    <ellipse
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path21-4"
+       cx="80.411179"
+       cy="22.352024"
+       rx="2.5555382"
+       ry="2.4161451" />
+    <ellipse
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path21-4-0"
+       cx="20.543209"
+       cy="49.999336"
+       rx="2.5555382"
+       ry="2.4161451" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path22"
+       cx="17.702909"
+       cy="22.349342"
+       rx="14.543336"
+       ry="3.9494679" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.264583"
+       x="2.8807883"
+       y="28.714956"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="stroke-width:0.264583"
+         x="2.8807883"
+         y="28.714956">Aktív center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="9.5716524"
+       y="9.4787235"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="stroke-width:0.264583"
+         x="9.5716524"
+         y="9.4787235">Enzim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="26.577599"
+       y="10.129224"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="stroke-width:0.264583"
+         x="26.577599"
+         y="10.129224">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="31.131102"
+       y="3.7171464"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="stroke-width:0.264583"
+         x="31.131102"
+         y="3.7171464">Szubsztrát</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="34.476532"
+       y="14.961514"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="stroke-width:0.264583"
+         x="34.476532"
+         y="14.961514">S1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="40.609825"
+       y="14.775657"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="stroke-width:0.264583"
+         x="40.609825"
+         y="14.775657">S2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="64.95713"
+       y="6.6908636"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="stroke-width:0.264583"
+         x="64.95713"
+         y="6.6908636">Enzimszubsztrát</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="5.1110764"
+       y="37.171463"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="stroke-width:0.264583"
+         x="5.1110764"
+         y="37.171463">Kémiai reakció</tspan></text>
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       d="m 12.917084,50.181478 5.018147,-0.09293"
+       id="path29" />
+    <path
+       sodipodi:type="star"
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path20-5-3-4"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="38.28661"
+       sodipodi:cy="5.5757198"
+       sodipodi:r1="3.0778892"
+       sodipodi:r2="1.5389446"
+       sodipodi:arg1="0.50416596"
+       sodipodi:arg2="1.5513635"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 40.981541,7.0625784 -5.330054,0.103591 2.575314,-4.6677576 z"
+       inkscape:transform-center-x="-0.029904146"
+       inkscape:transform-center-y="-0.74342936"
+       transform="translate(39.194024,41.602962)" />
+    <ellipse
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       id="path21-4-0-8"
+       cx="86.502716"
+       cy="46.31953"
+       rx="2.5555382"
+       ry="2.4161451" />
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       d="m 78.876587,46.501673 5.018147,-0.09293"
+       id="path29-7" />
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0.264583"
+       d="M 16.262515,49.716832 31.409888,41.260326"
+       id="path30" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#800000;stroke:#800000;stroke-width:0.264583"
+       x="28.714956"
+       y="40.516895"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="stroke-width:0.264583"
+         x="28.714956"
+         y="40.516895">Kötés</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#800000;stroke:#800000;stroke-width:0.264583"
+       x="42.282543"
+       y="36.985603"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+         x="42.282543"
+         y="36.985603">Eredeti forma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="73.692421"
+       y="38.19368"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="stroke-width:0.264583"
+         x="73.692421"
+         y="38.19368">Enzim termék</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="foldrajz-tavak-kialakulasa-001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8614198"
+     inkscape:cx="204.09448"
+     inkscape:cy="85.796569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.286999;stroke-dasharray:none"
+       d="M 41.054792,3.6061642 C 35.411726,8.1307476 31.126028,13.50997 32.085616,22.19178 c 2.435835,8.186959 9.369825,8.437505 11.003425,14.147261 1.034871,7.707348 -3.106849,11.273424 -6.842466,15.164382 v 0"
+       id="path125"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.286999;stroke-dasharray:none"
+       d="m 55.813682,3.5515391 c -5.643066,4.5245821 -9.928764,9.9038029 -8.969176,18.5856129 2.435835,8.186959 9.369825,8.437505 11.003425,14.147261 1.034871,7.707348 -3.106849,11.273424 -6.842466,15.164382 v 0"
+       id="path125-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.286999;stroke-dasharray:none"
+       d="m 50.578765,20.065068 c 4.88056,-0.257273 8.432485,0.81409 11.09589,2.773972 7.727686,6.404702 5.413984,8.391194 7.674657,12.39041 0.06378,4.408721 -2.826912,7.176069 -4.808217,10.448631 -1.996651,2.029841 -4.137071,2.190701 -6.380139,1.017122 l 1.017125,-3.698629 c 1.386986,1.279473 2.773973,0.779294 4.160959,-0.64726 1.606795,-2.219178 3.086609,-4.438355 2.034246,-6.657533 -0.426215,-5.116057 -3.705131,-6.745479 -6.195205,-9.339042 -2.791485,-1.761753 -5.68834,-2.996659 -8.969179,-2.311644 z"
+       id="path126"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#0000ff;stroke-width:0.286999;stroke-dasharray:none"
+       x="68.054794"
+       y="11.928082"
+       id="text126"><tspan
+         sodipodi:role="line"
+         id="tspan126"
+         style="stroke:#1a1a1a;stroke-width:0.287"
+         x="68.054794"
+         y="11.928082">térképen így jelölik</tspan></text>
+  </g>
+</svg>

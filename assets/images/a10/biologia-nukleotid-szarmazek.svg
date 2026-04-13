@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="biologia-nukleotid-szarmazek.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.87211"
+     inkscape:cx="206.12024"
+     inkscape:cy="95.400246"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="path26-1"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="4.6060796"
+       sodipodi:cy="2.8557692"
+       sodipodi:r1="12.422418"
+       sodipodi:r2="10.049947"
+       sodipodi:arg1="0.9539951"
+       sodipodi:arg2="1.5823136"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 11.791563,12.989144 -2.8108958,12.820955 -7.1633472,-1.1187817 4.7491492,-9.5658246 16.463928,-0.84664713 Z"
+       inkscape:transform-center-x="-0.043497124"
+       inkscape:transform-center-y="-1.1256601"
+       transform="matrix(0.983875,0,0,0.983875,47.350658,26.834697)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="32.541634"
+       y="19.806099"
+       id="text27-9"><tspan
+         sodipodi:role="line"
+         id="tspan27-2"
+         style="stroke-width:0.264583"
+         x="32.541634"
+         y="19.806099">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 40.165012,25.701923 35.098325,19.437655"
+       id="path31" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 63.563893,25.978287 74.342121,25.057072"
+       id="path32" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="75.263336"
+       y="24.780706"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="stroke-width:0.264583"
+         x="75.263336"
+         y="24.780706">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="81.251244"
+       y="24.872828"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="stroke-width:0.264583"
+         x="81.251244"
+         y="24.872828">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="26.531017"
+       y="19.806141"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         style="stroke-width:0.264583"
+         x="26.531017"
+         y="19.806141">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583"
+       x="20.819479"
+       y="19.806141"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="stroke-width:0.264583"
+         x="20.819479"
+         y="19.806141">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 23.306761,18.792804 h 2.579405"
+       id="path35" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 28.926178,18.700682 h 2.579405"
+       id="path36" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 78.026984,23.675248 h 2.487282"
+       id="path37" />
+  </g>
+</svg>

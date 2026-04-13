@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 105.83333 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="matematika-diszkriminans-002.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8802096"
+     inkscape:cx="198.64806"
+     inkscape:cy="153.97219"
+     inkscape:window-width="1346"
+     inkscape:window-height="844"
+     inkscape:window-x="87"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 0,40.132291 H 105.68081"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 50.132291,0 V 79.647589"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.218133"
+       d="M 61.932228,4.9072299 C 67.69584,35.916555 71.978954,39.720926 78.653364,39.98268 85.760753,40.022382 92.401056,21.943786 95.756695,4.6254996"
+       id="path3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.218133"
+       d="M 4.10723,4.9074774 C 9.870842,35.916803 14.153956,39.721174 20.828366,39.982928 27.935755,40.02263 34.576058,21.944034 37.931697,4.6257471"
+       id="path3-7"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 18.012176,37.712993 3.518003,3.940162"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 18.012176,41.090275 22.3745,37.994433"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 75.848146,37.853712 3.940164,3.518003"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 76.411028,41.090275 4.080883,-2.955123"
+       id="path10" />
+  </g>
+</svg>

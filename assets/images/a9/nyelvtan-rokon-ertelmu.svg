@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nyelvtan-rokon-ertelmu.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="7.1811925"
+     inkscape:cx="53.194508"
+     inkscape:cy="53.264134"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="19.74682"
+       y="14.750922"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="19.74682"
+         y="14.750922">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="19.747095"
+       y="22.992752"
+       id="text1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="19.747095"
+         y="22.992752">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="19.747095"
+       y="6.5885854"
+       id="text1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-28"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="19.747095"
+         y="6.5885854">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="2.7943544"
+       y="14.750586"
+       id="text2-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-5"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="2.7943544"
+         y="14.750586">J</tspan></text>
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       d="M 9.1187037,13.443811 H 17.48228"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       d="M 8.9656443,11.229837 14.930624,8.1315147 16.387711,7.3746767"
+       id="path2-6"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       d="m 8.9651456,15.543909 5.9649794,3.098323 1.457087,0.756838"
+       id="path2-6-1"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

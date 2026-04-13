@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg1281"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="irodalom_konfliktusok-rendszere-antigone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1283"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73673541"
+     inkscape:cx="564.65319"
+     inkscape:cy="401.09379"
+     inkscape:window-width="960"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1278" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="56.455139"
+       y="49.631672"
+       id="text239"><tspan
+         sodipodi:role="line"
+         id="tspan237"
+         style="stroke-width:0.264583"
+         x="56.455139"
+         y="49.631672">Antigoné</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="227.11342"
+       y="50.924553"
+       id="text243"><tspan
+         sodipodi:role="line"
+         id="tspan241"
+         style="stroke-width:0.264583"
+         x="227.11342"
+         y="50.924553">Kreon</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="M 71.323096,61.267474 V 109.1035 l -1.939301,-9.05006 h 3.878599 l -2.585731,7.7572"
+       id="path353" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 223.23481,59.328166 -50.42175,47.836054 5.17145,-9.05008 3.87862,3.8786 -9.05007,3.8786"
+       id="path355" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 229.69914,59.974606 -13.57509,45.250304 v -7.757198 l 5.17148,2.585728 -5.17148,3.87861"
+       id="path357" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 242.6278,60.621034 28.44306,42.664566 -6.46433,-5.17146 3.87858,-2.585725 2.58575,6.464325"
+       id="path359" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="58.394428"
+       y="120.09288"
+       id="text363"><tspan
+         sodipodi:role="line"
+         id="tspan361"
+         style="stroke-width:0.264583"
+         x="58.394428"
+         y="120.09288">Iszméné</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="148.89505"
+       y="120.09287"
+       id="text367"><tspan
+         sodipodi:role="line"
+         id="tspan365"
+         style="stroke-width:0.264583"
+         x="148.89505"
+         y="120.09287">Haimon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="203.84181"
+       y="120.7393"
+       id="text371"><tspan
+         sodipodi:role="line"
+         id="tspan369"
+         style="stroke-width:0.264583"
+         x="203.84181"
+         y="120.7393">Teiresziász</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="267.83871"
+       y="122.03216"
+       id="text375"><tspan
+         sodipodi:role="line"
+         id="tspan373"
+         style="stroke-width:0.264583"
+         x="267.83871"
+         y="122.03216">Őr</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="nyelvtan-hangalak-jelentes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="7.1811925"
+     inkscape:cx="53.194508"
+     inkscape:cy="53.264134"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="2.2843235"
+       y="14.750922"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="2.2843235"
+         y="14.750922">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+       x="20.7864"
+       y="14.750586"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:4.93889px;stroke-width:0.287"
+         x="20.7864"
+         y="14.750586">J</tspan></text>
+    <g
+       id="g3">
+      <path
+         style="fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+         d="M 7.0473304,13.22697 H 15.410901"
+         id="path2" />
+      <path
+         style="fill:none;stroke:#1a1a1a;stroke-width:0.286999"
+         d="m 13.752924,12.047964 4.592395,1.230528 -4.575844,1.226094"
+         id="path3" />
+    </g>
+  </g>
+</svg>

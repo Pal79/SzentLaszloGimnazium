@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200"
+   viewBox="0 0 79.375 52.916665"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="matematika_halmaz-metszet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="152.38151"
+     inkscape:cy="84.322484"
+     inkscape:window-width="960"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs420" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path509"
+       cx="28.568438"
+       cy="27.296238"
+       r="16.33284" />
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path509-3"
+       cx="50.271095"
+       cy="27.413811"
+       r="16.33284" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="12.403979"
+       y="15.84641"
+       id="text547"><tspan
+         sodipodi:role="line"
+         id="tspan545"
+         style="stroke-width:0.264583"
+         x="12.403979"
+         y="15.84641">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="64.938477"
+       y="15.341271"
+       id="text551"><tspan
+         sodipodi:role="line"
+         id="tspan549"
+         style="stroke-width:0.264583"
+         x="64.938477"
+         y="15.341271">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="6.510685"
+       y="6.5855207"
+       id="text555"><tspan
+         sodipodi:role="line"
+         id="tspan553"
+         style="stroke-width:0.264583"
+         x="6.510685"
+         y="6.5855207">metszet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="35.13525"
+       y="8.9428387"
+       id="text559"><tspan
+         sodipodi:role="line"
+         id="tspan557"
+         style="stroke-width:0.264583"
+         x="35.13525"
+         y="8.9428387">  A ∩ B  </tspan></text>
+    <path
+       style="fill:#d40000;stroke:#1a1a1a;stroke-width:0.353553"
+       d="m 145.49619,145.22073 c -7.7443,-8.30682 -13.02249,-18.5216 -15.39082,-29.78555 -1.06297,-5.05557 -1.3321,-14.533 -0.56726,-19.975764 1.83712,-13.073212 7.46561,-24.626324 16.68527,-34.248409 l 2.92386,-3.051474 1.99387,1.944544 c 7.37933,7.196786 13.32158,17.603845 15.91662,27.87583 5.06753,20.058913 0.002,40.447993 -13.95553,56.177443 -1.75939,1.98268 -3.50477,3.76857 -3.87861,3.96865 -0.58726,0.31429 -1.09432,-0.0809 -3.7274,-2.90527 z"
+       id="path857"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
