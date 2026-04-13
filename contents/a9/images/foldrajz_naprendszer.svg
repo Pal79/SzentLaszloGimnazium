@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200"
+   viewBox="0 0 79.375 52.916665"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="foldrajz_naprendszer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="152.38151"
+     inkscape:cy="84.322484"
+     inkscape:window-width="960"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs420" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.322313"
+       id="path174"
+       cx="41.04726"
+       cy="25.949196"
+       r="22.87079" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="4.5088339"
+       y="5.7436218"
+       id="text284"><tspan
+         sodipodi:role="line"
+         id="tspan282"
+         style="stroke-width:0.264583"
+         x="4.5088339"
+         y="5.7436218">Naprendszer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="35.303627"
+       y="23.011906"
+       id="text338"><tspan
+         sodipodi:role="line"
+         id="tspan336"
+         style="stroke-width:0.264583"
+         x="35.303627"
+         y="23.011906">4 fényév</tspan></text>
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       d="M 18.128892,25.874361 H 63.928201"
+       id="path403" />
+  </g>
+</svg>

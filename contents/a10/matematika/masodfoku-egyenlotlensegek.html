@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Másodfokú egyenlőtlenségek</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Másodfokú egyenlőtlenségek</h1>
+
+            <section class="task-card">
+                <h3>a. feladat</h3>
+                <p>$x^{2} + 6x - 7 < 0$</p>
+                <p>Zérushelyek keresése ($x^{2} + 6x - 7 = 0$):</p>
+                <p>$x_{1,2} = \frac{-6 \pm \sqrt{36 + 28}}{2} = \frac{-6 \pm 8}{2}$</p>
+                <ul>
+                    <li>$x_1 = 1$</li>
+                    <li>$x_2 = -7$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $-7 < x < 1$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>b. feladat</h3>
+                <p>$x^{2} - 2x - 8 \ge 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{2 \pm 6}{2}$</p>
+                <ul>
+                    <li>$x_1 = 4, x_2 = -2$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $x \ge 4$ vagy $x \le -2$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>c. feladat</h3>
+                <p>$x^{2} - 9x + 18 < 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{9 \pm 3}{2}$</p>
+                <ul>
+                    <li>$x_1 = 6, x_2 = 3$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $3 < x < 6$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>d. feladat</h3>
+                <p>$x^{2} - 8x + 19 \le 0$</p>
+                <p>Diszkrimináns: $D = 64 - 76 = -12$</p>
+                <p>Mivel a diszkrimináns negatív és a parabola felfelé nyílik, a függvény sosem metszi az x-tengelyt és mindig pozitív.</p>
+                <p><strong>Megoldás:</strong> Nincs valós megoldás (üres halmaz).</p>
+            </section>
+
+            <section class="task-card">
+                <h3>e. feladat</h3>
+                <p>$x^{2} + 7x + 6 > 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{-7 \pm 5}{2}$</p>
+                <ul>
+                    <li>$x_1 = -1, x_2 = -6$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $x < -6$ vagy $x > -1$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>f. feladat</h3>
+                <p>$x^{2} + 6x + 10 > 0$</p>
+                <p>Diszkrimináns: $D = 36 - 40 = -4$</p>
+                <p>A parabola mindig az x-tengely felett halad.</p>
+                <p><strong>Megoldás:</strong> $\forall x \in \mathbb{R}$ (minden valós szám megoldás).</p>
+            </section>
+
+            <section class="task-card">
+                <h3>g. feladat</h3>
+                <p>$2x^{2} - x - 6 \le 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{1 \pm 7}{4}$</p>
+                <ul>
+                    <li>$x_1 = 2, x_2 = -1.5$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $-1.5 \le x \le 2$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>h. feladat</h3>
+                <p>$4x^{2} + 12x + 5 < 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{-12 \pm 8}{8}$</p>
+                <ul>
+                    <li>$x_1 = -0.5, x_2 = -2.5$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $-2.5 < x < -0.5$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>i. feladat</h3>
+                <p>$3x^{2} - 8x + 7 \ge 0$</p>
+                <p>Diszkrimináns: $D = 64 - 84 = -20$</p>
+                <p>A parabola sosem metszi az x-tengelyt, mindig pozitív értéket vesz fel.</p>
+                <p><strong>Megoldás:</strong> $\forall x \in \mathbb{R}$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>j. feladat</h3>
+                <p>$15x^{2} + 11x + 2 > 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{-11 \pm 1}{30}$</p>
+                <ul>
+                    <li>$x_1 = -\frac{1}{3} \approx -0.33$</li>
+                    <li>$x_2 = -\frac{2}{5} = -0.4$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $x < -0.4$ vagy $x > -0.33$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>k. feladat</h3>
+                <p>$35x^{2} - 46x + 15 \le 0$</p>
+                <p>Zérushelyek: $x_{1,2} = \frac{46 \pm 4}{70}$</p>
+                <ul>
+                    <li>$x_1 = \frac{5}{7} \approx 0.71$</li>
+                    <li>$x_2 = \frac{3}{5} = 0.6$</li>
+                </ul>
+                <p><strong>Megoldás:</strong> $0.6 \le x \le \frac{5}{7}$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>l. feladat</h3>
+                <p>$2x^{2} + 3x + 3 < 0$</p>
+                <p>Diszkrimináns: $D = 9 - 24 = -15$</p>
+                <p>Mivel a parabola felfelé nyílik és nincs zérushelye, sosem lesz kisebb nullánál.</p>
+                <p><strong>Megoldás:</strong> Nincs valós megoldás.</p>
+            </section>
+        </div>
+    </main>
+</body>
+</html>

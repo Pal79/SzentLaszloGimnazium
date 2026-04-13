@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Féléves vizsga</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtam</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Hőtan</h1>
+            <h2>I. Főtétel: Az energiamegmaradás törvénye</h2>
+            <p>Azt mondja ki, hogy energia nem vész el, csak átalakul. Egy zárt rendszer belső energiájának megváltozása egyenlő a rendszerrel közölt hő és a rendszeren végzett munka összegével.</p>
+            <br>
+            <p>Képletben: $\Delta U = Q + W$</p>
+            <br>
+            <ul>
+                <li>$\Delta U$: A belső energia változása.</li>
+                <li>$Q$: A rendszerrel közölt hő (ha a rendszer hőt ad le, az értéke negatív).</li>
+                <li>$W$: A rendszeren végzett munka (ha a rendszer végez munkát a környezetén, az értéke negatív).</li>
+            </ul>
+            <p>Lényege: Nem létezik elsőfajú perpetuum mobile (olyan gép, amely semmiből állít elő energiát).</p>
+            <h2>II. Főtétel: Az entrópia és a folyamatok iránya</h2>
+            <p>Míg az első főtétel szerint a jégkocka magától is megfagyhatna a forró teában (ha közben a tea még forróbb lenne), a második főtétel kijelöli a folyamatok valóságos irányát.</p>
+            <ul>
+                <li>`Megfogalmazás`: A hő magától soha nem megy át hidegebb testről melegebbre, csak fordítva.</li>
+                <li>`Entrópia-elven`: Egy izolált rendszer entrópiája (rendezetlensége) spontán folyamatok során csak növekedhet, vagy stagnálhat, de soha nem csökkenhet.</li>
+            </ul>
+            <p>**Lényege**: Nem létezik másodfajú perpetuum mobile (olyan gép, amely a környezetéből elvont hőt veszteség nélkül, 100%-ban munkává alakítaná).</p>
+            <h2>III. Főtétel: Az abszolút zérus pont elérése (Nernst-tétel)</h2>
+            <p>Ez a tétel a rendszerek viselkedését írja le az abszolút nulla fok ($0 K$, azaz $−273,15 ^\circ C$) közelében.</p>
+            <br>
+            <ul>
+                <li>`Megfogalmazás`: Véges számú lépésben nem lehet egy test hőmérsékletét abszolút zérusra csökkenteni.</li>
+                <li>`Entrópia-elven`: Ahogy a hőmérséklet közelít a $0 K$-hez, a tiszta kristályos anyagok entrópiája is egy határértékhez, a nullához közelít (tökéletes rend).</li>
+            </ul>
+
+            <hr>
+
+            <h1>Örökmozgó fogalma</h1>
+            <p>Az örökmozgó (latinul perpetuum mobile) egy olyan elméleti gép, amely megállás nélkül képes munkát végezni anélkül, hogy külső energiaforrásra lenne szüksége. A fizika törvényei alapján ilyen gép nem létezhet, de a tudománytörténet során két típust is megkülönböztettek aszerint, hogy melyik főtételt sértik meg.</p>
+            <br>
+            <h2>1. Elsőfajú örökmozgó</h2>
+            <p>Ez a gép a **termodinamika I. főtétel**ét (az energiamegmaradás törvényét) sértené meg.</p>
+            <ul>
+                <li>`Fogalma`: Olyan gép, amely több energiát termel, mint amennyit fogyaszt, vagy anélkül végez munkát, hogy energiát venne fel a környezetéből.</li>
+                <li>`Miért lehetetlen?` Mert az energia nem keletkezhet a semmiből. Ha egy gép munkát végez ($W$), ahhoz vagy a belső energiájának ($\Delta U$) kell csökkennie, vagy hőt ($Q$) kell felvennie.</li>
+            </ul>
+            <h2>2. Másodfajú örökmozgó</h2>
+            <p>Ez a típus már trükkösebb, mert az energiamegmaradás törvényét betartaná, viszont a **termodinamika II. főtétel**ét sérti meg.</p>
+            <ul>
+                <li>`Fogalma`: Olyan gép, amely egyetlen hőtartályból von el hőt, és azt **teljes egészében** (100%-os hatásfokkal) munkává alakítja, anélkül, hogy a környezetében bármilyen más változás történne (például anélkül, hogy hőt adna le egy hidegebb tartálynak).</li>
+                <li>`Példa az elgondolásra`: Egy hajó, amely az óceán vizének belső energiáját használná fel a mozgáshoz: lehűtené a tengervizet, és az így nyert energiával hajtaná a propellereket.</li>
+                <li>`Miért lehetetlen?` Mert a hő magától csak a melegebb helyről vándorol a hidegebb felé. Ahhoz, hogy munkát nyerjünk, szükség van egy hőmérséklet-különbségre (egy meleg tartályra, ahonnan az energia jön, és egy hidegre, ahová a "felesleg" távozik).</li>
+            </ul>
+
+            <hr>
+
+            <h1>Hőerőgép fogalma</h1>
+            <p>A `hőerőgép` olyan berendezés, amely `hőenergiát alakít át mechanikai munkává`. Működése során egy munkaanyag (például gáz vagy gőz) egy zárt körfolyamatot végez, miközben hőt vesz fel egy magasabb hőmérsékletű forrásból, és a felvett energia egy részét munkára fordítja.</p>
+            <br>
+            <p>A `termodinamika II. főtétele` miatt a hőerőgépek `soha nem tudják a felvett hőt 100%-ban munkává alakítani`; a maradék energiát "hulladékhő" formájában le kell adniuk egy alacsonyabb hőmérsékletű környezetnek (hőnyelőnek).</p>
+            <h2>A hőerőgép működési elve</h2>
+            <p>Minden hőerőgép működéséhez három alapvető összetevő szükséges:</p>
+            <ul>
+                <li>**Meleg tartály (hőforrás)**: Innen veszi fel a gép a $Q_{be}$​ hőenergiát (pl. égéstér, kazán).</li>
+                <li>**Munkaanyag**: Ez végzi a tágulást és a munkát (pl. vízgőz, benzin-levegő keverék).</li>
+                <li>**Hideg tartály (hőnyelő)**: Ide adja le a gép a fel nem használt $Q_{ki}$​ hőt (pl. hűtővíz, környezeti levegő).</li>
+            </ul>
+            <h2>Csoportosításuk</h2>
+            <p>A hőerőgépeket elsősorban az alapján osztjuk fel, hogy hol történik a hő felszabadítása:</p>
+            <ul>
+                <li>**Külső égésű gépek**: Az üzemanyag elégetése a gépen kívül történik, a hő egy közvetítő anyagon keresztül jut be.</li>
+                <ul>
+                    <li>Példa: Gőzgép, gőzturbina, Stirling-motor.</li>
+                </ul>
+                <li>**Belső égésű gépek**: Az üzemanyag elégetése a munkatérben (pl. hengerben) történik.</li>
+                <ul>
+                    <li>Példa: Otto-motor (benzinmotor), Diesel-motor, gázturbina, sugárhajtómű.</li>
+                </ul>
+            </ul>
+            <h2>Hatásfok ($\eta$ (éta))</h2>
+            <p>A hatásfok megmutatja, hogy a befektetett hő hány százalékából lett hasznos munka. Képlettel:</p>
+            <ul>
+                <li>$\eta = \frac{W}{Q_{be}} = \frac{Q_{be} - | Q_{ki} |}{Q_{be}}$</li>
+            </ul>
+            <p>Az elméletileg elérhető legnagyobb hatásfokot a Carnot-hatásfok adja meg, amely csak a két hőtartály abszolút hőmérsékletétől ($T$) függ:</p>
+            <ul>
+                <li>$\eta_{max} = 1 - \frac{T_{hideg}}{T_{meleg}}$</li>
+            </ul>
+            <p>**Fontos**: Ebből látszik, hogy minél nagyobb a hőmérséklet-különbség a forrás és a hűtő között, annál jobb a gép hatásfoka.</p>
+
+            <hr>
+
+            <h1>Négy halmazállapot fogalma</h1>
+            <p>A fizikában és kémiában a halmazállapot az anyag azon állapota, amelyben bizonyos fizikai tulajdonságai (például az alakja és a térfogata) állandóak vagy meghatározott módon változnak. Bár a mindennapokban hármat látunk leggyakrabban, tudományos szempontból négy alapvető halmazállapotot különböztetünk meg.</p>
+            <h2>1. Szilárd halmazállapot</h2>
+            <p>Az anyag részecskéi (atomok, molekulák vagy ionok) szorosan egymás mellett helyezkednek el, és erős vonzóerők tartják őket össze.</p>
+            <ul>
+                <li>**Alak és térfogat**: Meghatározott alakja és állandó térfogata van.</li>
+                <li>**Mozgás**: A részecskék csak rezgőmozgást végeznek a rácspontok körül, nem mozdulnak el egymáshoz képest.</li>
+                <li>**Példa**: Jég, vas, kőzet.</li>
+            </ul>
+            <h2>2. Folyékony halmazállapot</h2>
+            <p>A részecskék közötti vonzóerő elég erős ahhoz, hogy összetartsa őket, de nem elég erős ahhoz, hogy rögzített pozícióban tartsa a részecskéket.</p>
+            <ul>
+                <li>**Alak és térfogat**: Nincs saját alakja (felveszi az edény alakját), de térfogata állandó és gyakorlatilag összenyomhatatlan.</li>
+                <li>**Mozgás**: A részecskék elgördülnek egymáson, szabadon elmozdulhatnak.</li>
+                <li>**Példa**: Víz, olaj, higany.</li>
+            </ul>
+            <h2>3. Légnemű (gáz) halmazállapot</h2>
+            <p>A részecskék közötti vonzóerő elhanyagolható, a részecskék nagy sebességgel mozognak és messze vannak egymástól.</p>
+            <ul>
+                <li>**Alak és térfogat**: Sem saját alakja, sem saját térfogata nincs; kitölti a rendelkezésre álló teret. Erősen összenyomható.</li>
+                <li>**Mozgás**: Rendezetlen, egyenes vonalú, gyors mozgás, gyakori ütközésekkel.</li>
+                <li>**Példa**: Levegő, vízgőz, hélium.</li>
+            </ul>
+            <h2>4. Plazmaállapot</h2>
+            <p>A "negyedik halmazállapot", amely magas hőmérsékleten (vagy erős elektromos tér hatására) jön létre. Ez egy ionizált gáz.</p>
+            <ul>
+                <li>Fogalma: Olyan gázszerű állapot, amelyben az atomokról az elektronok leszakadtak, így a rendszer szabadon mozgó pozitív ionokból és negatív elektronokból áll.</li>
+                <li>Tulajdonság: Mivel töltött részecskékből áll, kiválóan vezeti az elektromosságot és reagál a mágneses mezőre.</li>
+                <li>Előfordulása: Ez a leggyakoribb állapot a látható univerzumban (a csillagok anyaga). A Földön természetes módon a villámlásban vagy az északi fényben fordul elő.</li>
+            </ul>
+            <h2>Átmenetek a halmazállapotok között</h2>
+            <p>Az anyag állapotát a hőmérséklet és a nyomás határozza meg. Az átmeneteket az alábbi LaTeX képletekkel/nevekkel jelölhetjük:</p>
+            <ul>
+                <li>Olvadás: Szilárd $\implies$ Folyékony</li>
+                <li>Fagyás: Folyékony $\implies$ Szilárd</li>
+                <li>Párolgás / Forrás: Folyékony $\implies$ Gáz</li>
+                <li>Lecsapódás: Gáz $\implies$ Folyékony</li>
+                <li>Szublimáció: Szilárd $\implies$ Gáz (köztes folyadékfázis nélkül)</li>
+                <li>Ionizáció: Gáz $\implies$ Plazma</li>
+            </ul>
+
+            <hr>
+
+            <h1>Boyle-Mariotte törvények</h1>
+            <p>Az **izoterm** állapotváltozás olyan folyamat, amely során a gáz (vagy más rendszer) **hőmérséklete állandó marad** ($T = állandó$).</p>
+            <br>
+            <p>Ahhoz, hogy a hőmérséklet ne változzon, a rendszernek folyamatos hőcserében kell állnia a környezetével: ha tágul (és hűlni akarna), hőt kell felvennie; ha összenyomják (és melegedni akarna), hőt kell leadnia.</p>
+            <br>
+            <h2>1. Boyle–Mariotte-törvény</h2>
+            <p>Izoterm körülmények között az ideális gáz nyomása ($p$) és térfogata ($V$) fordítottan arányos egymással. Ha a térfogat felére csökken, a nyomás megduplázódik.</p>
+            <br>
+            <p>**Képletben**: $p \cdot V = állandó$</p>
+            <br>
+            <p>vagy két állapot összehasonlításakor: $p_{1} \cdot V_{1} = p_{2} \cdot V_{2}$</p>
+            <h2>2. Termodinamikai értelmezés (I. főtétel alapján)</h2>
+            <p>Mivel az ideális gáz belső energiája ($\Delta U$) csak a hőmérséklettől függ, izotherm folyamatnál a belső energia változása nulla ($\Delta U = 0$).</p>
+            <br>
+            <p>Az I. főtétel ($\Delta U = Q + W$) alapján ebből az következik:</p>
+            <p>$Q = -W$</p>
+            <br>
+            <p>Ez azt jelenti, hogy az összes közölt hő ($Q$) teljes egészében munkavégzésre ($W$) fordítódik (táguláskor), vagy fordítva: az összenyomáskor befektetett munka hő formájában távozik a rendszerből.</p>
+            <h2>3. Grafikus ábrázolás: Az izoterma</h2>
+            <p>A folyamat grafikonja a $p − V$ diagramon egy hiperbola, amelyet izotermának nevezünk.</p>
+            <ul>
+                <li>Minél magasabb a gáz hőmérséklete, az izoterma annál messzebb helyezkedik el az origótól.</li>
+                <li>A görbe alatti terület adja meg a gáz által végzett (vagy rajta végzett) munkát.</li>
+            </ul>
+            <h2>4. Példa a gyakorlatból</h2>
+            <ul>
+                <li>**Lassú folyamatok**: Ha egy fecskendő végét befogod és nagyon lassan nyomod össze a benne lévő levegőt, a keletkező hőnek van ideje távozni a falon keresztül, így a levegő hőmérséklete nem emelkedik érezhetően.</li>
+                <li>**Párolgás**: Amikor a víz forr, a közölt hő nem a hőmérséklet emelésére megy el ($100 ^{\circ} C$ marad), hanem a halmazállapot megváltoztatására (ez is egyfajta izoterm folyamat).</li>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>

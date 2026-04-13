@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Racionális és irracionális számok</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Racionális és irracionáls számok</h1>
+            <p>- Nulla és pozitív számok: természetes számok</p>
+
+            <h3>Racionális számok: törtek</h3>
+            <p>Azok a számok, melyek egész számok hányadosaként írhatóak fel.</p>
+            <p>$4 = \frac{8}{2} = \frac{16}{4}$</p>
+            <p>Jelölés: $Q$</p>
+
+            <h2>Irracionális számok</h2>
+            <p>Nem írhatók fel tört alakban, mert végtelen szakaszos számok</p>
+            <p>pl.: $\sqrt{2} = 1,414213562$</p>
+            <p>Jelölés: $Q^{*}$</p>
+            <p>$Q \cup Q^{*} = \mathbb{R} $</p>
+
+            <h2>$\sqrt{a}$ Definíció:</h2>
+            <p>Az a nem negatív szám, amelynek a négyzete $a$. $(\sqrt{a}^{2} = a)$</p>
+            <p>feltétel: $a \geq 0$</p>
+            <p>négyzetgyök alatt nem állhat negatív szám.</p>
+
+            <h2>A négyzetgyökvonás azonosságai</h2>
+            <ol>
+                <li>$\sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b}$</li>
+                <ul>
+                    <li>szorzat négyzetgyöke egyenlő a tényezők négyzetgyökének szorzatával.</li>
+                </ul>
+                <li>$\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$</li>
+                <ul>
+                    <li>tört négyzetgyöke megegyezik a számláló és a nevező négyzetgyökének hányadosával.</li>
+                </ul>
+                <li>$(\sqrt{a})^{k} = \sqrt{a^{k}}$</li>
+                <ul>
+                    <li>a négyzetgyökvonás és hatványozás művelete felcserélhető.</li>
+                </ul>
+            </ol>
+            <h3>példák:</h3>
+            <p>$\frac{\sqrt{50}}{\sqrt{2}}=\sqrt{\frac{50}{2}}=\sqrt{25}=5$</p>
+            <p>$\sqrt{50} \cdot \sqrt{2}=\sqrt{50 \cdot 2}=\sqrt{100}=10$</p>
+            <p>$\frac{\sqrt{27}}{\sqrt{3}}=\sqrt{\frac{27}{3}}=\sqrt{9}=3$</p>
+            <p>$\sqrt{5^{3}} \cdot \sqrt{5}=\sqrt{5^{3} \cdot 5}=\sqrt{5^{4}}=5^{2}=25$</p>
+
+            <h2>Gyöktelenítés</h2>
+            <p>Cél, hogy a tört nevezőjében ne legyen gyökjel.</p>
+            <h3>példák:</h3>
+            <p>$\frac{1}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{(\sqrt{2})^{2}}=\frac{\sqrt{2}}{2}$
+            </p>
+            <p>$\frac{1}{\sqrt{3}} \cdot
+                \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3}$
+            </p>
+            <p>$\frac{1}{\sqrt{5}} \cdot
+                \frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5}$
+            </p>
+            <p>$\frac{2}{\sqrt{7}} \cdot \frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7}$</p>
+            <p>$\frac{7}{3\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}$</p>
+
+            <h2>Négyzetgyökvonás azonosságainak alkalmazása</h2>
+            <h3>Bevitel a gyökjel alá:</h3>
+            <p>$3\sqrt{5} \lt 5\sqrt{2}$</p>
+            <p>$\sqrt{3^{2}=\sqrt{45}}$&nbsp;&nbsp;&nbsp;$\sqrt{5^{2}2}=\sqrt{50}$</p>
+            <p>mivel a $\sqrt{x}$ függvény szigorúan monoton nő</p>
+            <p>$6\sqrt{2} = 3\sqrt{8}$</p>
+            <p>$\sqrt{6^{2}2}=\sqrt{72}$&nbsp;&nbsp;&nbsp;$\sqrt{3^{2}8}=\sqrt{72}$</p>
+            <h3>Kiemelés gyökjel alól</h3>
+            <p>
+                $\sqrt{18} + \sqrt{8} - \sqrt{50} =$ <br>
+                $\sqrt{9 \cdot 2} + \sqrt{4 \cdot 2} - \sqrt{25 \cdot 2} =$<br>
+                $\sqrt{3^{2} \cdot 2} + \sqrt{2^{2} \cdot 2} - \sqrt{5^{2} \cdot 2} =$<br>
+                $3\sqrt{2} + 2 \sqrt{2} - 5 \sqrt{2} = 0$
+            </p>
+        </div>
+    </main>
+</body>
+
+</html>

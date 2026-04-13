@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Féléves vizsga</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtam</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Genetikai alapfogalmak</h1>
+            <p>A genetika az élőlények öröklődésével és változékonyságával foglalkozó tudomány. Ahhoz, hogy megértsük, hogyan öröklődnek a tulajdonságaink, tisztázni kell az alapvető fogalmakat és a mendeli szabályokat.</p>
+            <h2>Gén</h2>
+            <p>A gén a biológia és az öröklődés alapegysége. Szerkezetileg a gén a DNS-molekula egy meghatározott szakasza, amely egy adott tulajdonság kialakításáért felelős információt hordozza.</p>
+            <h3>1. A gén szerkezete és helye</h3>
+            <p>A gének az élőlények sejtmagjában található kromoszómákon helyezkednek el, meghatározott sorrendben.</p>
+            <ul>
+                <li>`DNS-szakasz`: A gén nukleotidok (A, T, C, G bázisok) sorozatából áll. Ez a sorrend határozza meg a kódolt információt.</li>
+                <li>`Lókusz`: Így nevezzük a gén pontos helyét a kromoszómán.</li>
+                <li>`Funkció`: A gének többsége egy-egy fehérje felépítéséhez szükséges "receptet" tartalmazza (ez a génexpresszió). A fehérjék pedig meghatározzák a sejt és a szervezet működését, kinézetét.</li>
+            </ul>
+            <h3>2. Fontos fogalmak a génekkel kapcsolatban</h3>
+            <p>A gének megértéséhez ismernünk kell az alábbi alapfogalmakat:</p>
+            <table>
+                <tr>
+                    <th>Fogalom</th>
+                    <th>Jelentése</th>
+                </tr>
+                <tr>
+                    <td>Allél</td>
+                    <td>Egy gén változata (pl. a "szemszín" génnek van barna és kék alléle).</td>
+                </tr>
+                <tr>
+                    <td>Genotípus</td>
+                    <td>Az egyed génjeinek (alléljainak) összessége.</td>
+                </tr>
+                <tr>
+                    <td>Fenotípus</td>
+                    <td>A megjelenő tulajdonság (amit látunk, pl. kék szem), amit a genotípus és a környezet együtt határoz meg.</td>
+                </tr>
+                <tr>
+                    <td>Homozigóta</td>
+                    <td>Ha az egyed két egyforma allélt hordoz egy adott génből (pl. AA vagy aa).</td>
+                </tr>
+                <tr>
+                    <td>Heterozigóta</td>
+                    <td>Ha két különböző allélt hordoz (pl. Aa).</td>
+                </tr>
+            </table>
+
+            <h3>3. Hogyan működik a gén? (A centrális dogma)</h3>
+            <p>A génben tárolt információ nem közvetlenül válik tulajdonsággá, hanem egy többcsatornás folyamaton keresztül:</p>
+            <ul>
+                <li>`Transzkripció (Átírás)`: A DNS-ben lévő információról egy másolat készül, az mRNS (hírvivő RNS).</li>
+                <li>`Transzláció (Fordítás)`: A sejt szervecskéi (riboszómák) az mRNS alapján sorrendbe rakják az aminosavakat, és felépítik a fehérjét.</li>
+            </ul>
+
+            <h3>4. Mutációk</h3>
+            <p>A gének szerkezete megváltozhat, ezt nevezzük mutációnak.</p>
+            <ul>
+                <li>Ez történhet külső hatásra (pl. UV-sugárzás, vegyszerek) vagy véletlen hiba folytán a DNS másolása közben.</li>
+                <li>A mutációk lehetnek károsak (betegséget okozók), de ezek az evolúció alapjai is, mivel új tulajdonságokat hozhatnak létre.</li>
+            </ul>
+
+            <h3>Miért fontos ez nekünk?</h3>
+            <p>A gének ismerete lehetővé teszi:</p>
+            <ul>
+                <li>Öröklődő betegségek szűrését.</li>
+                <li>Mezőgazdasági nemesítést (ellenállóbb növények).</li>
+                <li>Géntechnológiát (pl. inzulin termeltetése baktériumokkal).</li>
+            </ul>
+
+            <hr>
+
+            <h2>Allél</h2>
+            <p>Az allél a gén változata. Míg a gén egy adott tulajdonságért felelős (például hajszín), az allél határozza meg, hogy ez a tulajdonság pontosan hogyan jelenjen meg (például barna vagy szőke).</p>
+            <p>Egy élőlény minden génből kettőt hordoz (egyet az apjától, egyet az anyjától), így egy adott génnek két allélja van jelen minden sejtjében.</p>
+            <h3>1. Az allélok típusai az öröklődésben</h3>
+            <p>Az allélok közötti kölcsönhatás határozza meg, hogy mit látunk az élőlényen (fenotípus).</p>
+            <ul>
+                <li>`Domináns allél`: Olyan változat, amely elnyomja a másikat. Ha jelen van, a tulajdonsága mindenképpen megjelenik. Jelölése: nagybetű (pl. "A").</li>
+                <li>`Recesszív (lappangó) allél`: Csak akkor tud megnyilvánulni, ha a domináns párja nincs jelen. Jelölése: kisbetű (pl. "a").</li>
+            </ul>
+
+            <h3>2. Allélkapcsolatok (Példákkal)</h3>
+            <p>A genetika három fő állapotot különböztet meg aszerint, hogy milyen allélpárok találkoznak:</p>
+            <h4>A) Homozigóta</h4>
+            <p>A két allél megegyezik.</p>
+            <ul>
+                <li>`Homozigóta domináns (AA)`: Mindkét szülőtől domináns allélt kapott (pl. mindkettő barna szemet kódol).</li>
+                <li>`Homozigóta recesszív (aa)`: Mindkét szülőtől lappangó allélt kapott (pl. kék szemet kódol).</li>
+            </ul>
+
+            <h4>B) Heterozigóta (Aa)</h4>
+            <p>A két allél különböző. Itt dől el, melyik az erősebb változat.</p>
+
+            <h4>C) Speciális esetek</h4>
+            <ul>
+                <li>`Intermedier öröklődés`: Egyik allél sem domináns a másik felett, a kettő "összekeveredik". (Pl. piros és fehér virágú szülőktől rózsaszín utód).</li>
+                <li>`Kodominancia`: Mindkét allél egyszerre és teljes mértékben kifejeződik. (Pl. az AB vércsoport, ahol az "A" és a "B" allél is látszik).</li>
+            </ul>
+
+            <h3>3. Hol találhatók az allélok?</h3>
+            <p>Az allélok a homológ kromoszómapárok azonos pontjain (lókuszain) helyezkednek el. Mivel a kromoszómák párokban vannak, minden tulajdonságra két "kódunk" van.</p>
+
+            <h3>4. Példa: A szemszín (egyszerűsítve)</h3>
+            <p>Tegyük fel, hogy a barna szem (B) domináns, a kék szem (b) recesszív.</p>
+            <ul>
+                <li>`BB (Homozigóta domináns)`: Barna szem.</li>
+                <li>`Bb (Heterozigóta)`: Barna szem (mert a B elnyomja a b-t).</li>
+                <li>`bb (Homozigóta recesszív)`: Kék szem.</li>
+            </ul>
+
+            <table>
+                <tr>
+                    <th>Fogalom</th>
+                    <th>Jelölés</th>
+                    <th>Megjelenés (Fenotípus)</th>
+                </tr>
+                <tr>
+                    <td>Domináns allél</td>
+                    <td>A</td>
+                    <td>Mindig látszik, ha jelen van</td>
+                </tr>
+                <tr>
+                    <td>Recesszív allél</td>
+                    <td>a</td>
+                    <td>Csak akkor látszik, ha párban van (aa)</td>
+                </tr>
+                <tr>
+                    <td>Genotípus</td>
+                    <td>AA, Aa, aa</td>
+                    <td>A belső genetikai kód</td>
+                </tr>
+                <tr>
+                    <td>Lókusz</td>
+                    <td>-</td>
+                    <td>A gén/allél helye a kromoszómán</td>
+                </tr>
+            </table>
+
+            <hr>
+
+            <h2>Genotípus</h2>
+            <p>A genotípus az élőlények belső, genetikai összetétele. Ez a sejtekben rejlő "kód", amely az egyed összes öröklött információját (génjeit és azok változatait, az allélokat) tartalmazza.</p>
+            <p>Fontos hangsúlyozni, hogy a genotípus a láthatatlan alapozás: nem mindig egyezik meg azzal, amit kívülről látunk az élőlényen.</p>
+
+            <h3>1. Genotípus vs. Fenotípus</h3>
+            <p>A két fogalom közötti különbség megértése kulcsfontosságú a biológiában:</p>
+            <ul>
+                <li>`Genotípus`: A DNS-ben kódolt allélok összessége (pl. Aa). Ez a belső utasításkészlet.</li>
+                <li>`Fenotípus`: A megjelenő tulajdonság (pl. barna szem), amit a genotípus és a környezet hatása együttesen alakít ki.</li>
+                <li>`Képletben kifejezve`: Fenotípus = Genotípus + Környezeti hatások</li>
+            </ul>
+
+            <h3>2. A genotípus lehetséges változatai</h3>
+            <p>Mivel minden génből kettőt hordozunk (anyai és apai ágról), egy adott tulajdonságra nézve a genotípus háromféle lehet (egyszerű domináns-recesszív öröklődés esetén):</p>
+            <ul>
+                <li>`Homozigóta domináns`: Mindkét szülőtől az erősebb (domináns) allélt kaptuk.</li>
+                <ul>
+                    <li>Jelölése: AA</li>
+                </ul>
+                <li>`Heterozigóta`: Az egyik szülőtől domináns, a másiktól recesszív allélt kaptunk.</li>
+                <ul>
+                    <li>Jelölése: Aa</li>
+                    <li>Érdekesség: Ebben az esetben a genotípusban ott rejtőzik a gyengébb tulajdonság is, de „kívülről” (fenotípus) a domináns látszik.</li>
+                </ul>
+                <li>Homozigóta recesszív: Mindkét szülőtől a gyengébb (recesszív) allélt kaptuk.</li>
+                <ul>
+                    <li>Jelölése: aa</li>
+                    <li>A tulajdonság csak ebben a genotípusos állapotban fog megjelenni a fenotípusban.</li>
+                </ul>
+            </ul>
+
+            <h3>3. Miért fontos ismerni a genotípust?</h3>
+            <p>`Lappangó hordozás`: A heterozigóta egyedek (Aa) hordozhatnak olyan betegségeket okozó recesszív géneket, amelyek rajtuk nem látszanak, de az utódaiknál (ha a másik szülő is hordozó) megjelenhetnek.</p>
+            <p>`Nemesítés`: A mezőgazdaságban a genotípus ismerete segít kiválasztani a legjobb tulajdonságokkal rendelkező egyedeket a szaporításhoz.</p>
+            <p>`Személyre szabott orvoslás`: A genotípusunk határozza meg, hogyan reagálunk bizonyos gyógyszerekre vagy milyen betegségekre vagyunk hajlamosak.</p>
+            <p>Példa: A borsó színe (Mendel nyomán)</p>
+            <ul>
+                <li>Sárga szín (domináns): S</li>
+                <li>Zöld szín (recesszív): s</li>
+            </ul>
+            <table>
+                <tr>
+                    <th>Genotípus</th>
+                    <th>Típus</th>
+                    <th>Fenotípus (Megjelenés)</th>
+                </tr>
+                <tr>
+                    <td>SS</td>
+                    <td>Homozigóta domináns</td>
+                    <td>Sárga</td>
+                </tr>
+                <tr>
+                    <td>Ss</td>
+                    <td>Heterozigóta</td>
+                    <td>Sárga (hordozza a zöldet)</td>
+                </tr>
+                <tr>
+                    <td>ss</td>
+                    <td>Homozigóta recesszív</td>
+                    <td>Zöld</td>
+                </tr>
+            </table>
+            <p>Látható, hogy két különböző genotípus (SS és Ss) ugyanazt a fenotípust (sárga) eredményezi!</p>
+
+            <hr>
+
+            <h2>Fenotípus</h2>
+            <p>A fenotípus az élőlény megjelenő tulajdonságainak összessége. Ez minden, amit egy élőlényen „kívülről” megfigyelhetünk, megmérhetünk vagy tesztelhetünk. Nemcsak a külső alakot (pl. szemszín, magasság) jelenti, hanem a szervezet belső működését, biokémiai folyamatait és bizonyos viselkedési formáit is.</p>
+
+            <h3>1. A fenotípus "receptje"</h3>
+            <p>A fenotípus nem csupán a génekből áll. Kialakulását az alábbi összefüggés írja le a legjobban:</p>
+            <ul>
+                <li>Fenotípus = Genotípus + Környezeti hatások</li>
+            </ul>
+            <p>Ez azt jelenti, hogy két azonos genotípusú élőlény (például az egypetéjű ikrek) fenotípusa is eltérhet egymástól, ha különböző környezetben nőnek fel (például az egyik többet sportol vagy máshogy étkezik).</p>
+
+            <h3>2. Mit foglal magában a fenotípus?</h3>
+            <p>A fenotípust több szinten is értelmezhetjük:</p>
+            <ul>
+                <li>Morfológiai (alaktani) tulajdonságok: Testmagasság, bőrszín, virágszín, levél alakja.</li>
+                <li>Fiziológiai (működéstani) tulajdonságok: Vércsoport, emésztőenzimek hatékonysága, hormontermelés szintje.</li>
+                <li>Viselkedési jegyek: Madarak éneke, pókok hálószövési mintázata.</li>
+            </ul>
+
+            <h3>3. Dominancia és a fenotípus rejtélye</h3>
+            <p>Mivel a domináns-recesszív öröklődés során a domináns allél elnyomja a recesszívet, a fenotípus alapján nem mindig lehet megmondani a pontos genotípust.</p>
+            <p>Példa a borsónál:</p>
+            <ul>
+                <li>Ha egy borsó sárga (ez a fenotípus), a genotípusa lehet SS (homozigóta domináns) vagy Ss (heterozigóta) is.</li>
+                <li>A zöld fenotípus viszont egyértelműen elárulja a genotípust: csak ss (homozigóta recesszív) lehet.</li>
+            </ul>
+
+            <h3>4. Környezeti hatás: A fenotípusos plaszticitás</h3>
+            <p>Vannak tulajdonságok, amelyeket a környezet drasztikusan módosíthat. Ezt hívjuk plaszticitásnak.</p>
+            <ul>
+                <li>Példa (Himalája-nyúl): Ez a nyúl fehér szőrű, de a fülei és a lábai feketék. Ha leborotváljuk a szőrét a hátán és jégtömlőt teszünk rá, ott is fekete szőr fog nőni. A genotípusa ugyanaz marad, de a hideg (környezet) hatására megváltozik a fenotípusa (a szőrszíne).</li>
+                <li>Példa (Emberek): A testmagasságunkat a génjeink meghatározzák, de ha gyermekkorban valaki nem kap elég tápanyagot, nem fogja elérni a genetikailag kódolt magasságát.</li>
+            </ul>
+
+            <table>
+                <tr>
+                    <th>Szempont</th>
+                    <th>Genotípus</th>
+                    <th>Fenotípus</th>
+                </tr>
+                <tr>
+                    <td>Mi az?</td>
+                    <td>Az örökölt belső kód (DNS).</td>
+                    <td>A megjelenő tulajdonságok.</td>
+                </tr>
+                <tr>
+                    <td>Láthatóság</td>
+                    <td>Láthatatlan (csak laborban vizsgálható).</td>
+                    <td>Megfigyelhető, mérhető.</td>
+                </tr>
+                <tr>
+                    <td>Változás</td>
+                    <td>Az egyed élete során állandó.</td>
+                    <td>Az életkor és a környezet hatására változhat.</td>
+                </tr>
+                <tr>
+                    <td>Meghatározója</td>
+                    <td>A szülők ivarsejtjei.</td>
+                    <td>A genotípus ÉS a környezet.</td>
+                </tr>
+            </table>
+
+            <hr>
+
+            <h2>Homozigóta</h2>
+            <p>A homozigóta kifejezés azt az állapotot jelöli, amikor egy egyed egy adott génből két azonos allélt (változatot) hordoz. Mivel minden élőlény két készlet kromoszómával rendelkezik (egyik az apától, másik az anyától származik), minden génből két példányunk van. Ha ez a két példány teljesen megegyezik, homozigótáról beszélünk.</p>
+
+            <h3>1. A homozigóta típusai</h3>
+            <p>Attól függően, hogy milyen típusú allélokból van két egyforma, két esetet különböztetünk meg:</p>
+
+            <h4>A) Homozigóta domináns</h4>
+            <p>Amikor az egyed mindkét szülőtől az erősebb, uralkodó allélt örökli.</p>
+            <ul>
+                <li>Jelölése: Két nagybetű (pl. AA).</li>
+                <li>Megjelenés (Fenotípus): A domináns tulajdonság látszik rajta.</li>
+                <li>Utódok: Ha két homozigóta domináns egyed szaporodik, minden utódjuk is domináns lesz.</li>
+            </ul>
+
+            <h4>B) Homozigóta recesszív</h4>
+            <p>Amikor az egyed mindkét szülőtől a gyengébb, lappangó allélt örökli.</p>
+            <ul>
+                <li>Jelölése: Két kisbetű (pl. aa).</li>
+                <li>Megjelenés (Fenotípus): Ez az egyetlen állapot, amikor a recesszív tulajdonság megmutatkozik. (Például a kék szem vagy a zöld borsó színe).</li>
+                <li>Utódok: Ha két ilyen egyed szaporodik, az összes utód csak recesszív tulajdonságú lehet.</li>
+            </ul>
+
+            <h3>2. A "tiszta származási vonal"</h3>
+            <p>A nemesítésben és Mendel kísérleteiben a homozigóta egyedeket tiszta származási vonalnak nevezik.</p>
+            <ul>
+                <li>Ez azt jelenti, hogy ha ezeket az egyedeket egymás között vagy önmegtermékenyítéssel szaporítják, az utódok nemzedékeken át pontosan ugyanazokat a tulajdonságokat mutatják, mint a szülők. Nincs bennük "rejtett" információ, ami később meglepetést okozna.</li>
+            </ul>
+
+            <h3>3. Példa: Az emberi vércsoport (Rh-faktor)</h3>
+            <p>Az Rh-faktor esetében a pozitív (+) tulajdonság domináns, a negatív (-) pedig recesszív.</p>
+
+            <table>
+                <tr>
+                    <th>Genotípus</th>
+                    <th>Jelölés</th>
+                    <th>Típus</th>
+                    <th>Fenotípus (Vércsoport)</th>
+                </tr>
+                <tr>
+                    <td>++</td>
+                    <td>DD</td>
+                    <td>Homozigóta domináns</td>
+                    <td>Rh-pozitív</td>
+                </tr>
+                <tr>
+                    <td>+-</td>
+                    <td>Dd</td>
+                    <td>Heterozigóta</td>
+                    <td>Rh-pozitív (hordozza a negatívat)</td>
+                </tr>
+                <tr>
+                    <td>--</td>
+                    <td>dd</td>
+                    <td>Homozigóta recesszív</td>
+                    <td>Rh-negatív</td>
+                </tr>
+            </table>
+            <p>Látható, hogy az Rh-negatív ember mindig homozigóta, hiszen csak két negatív allél találkozásakor jöhet létre ez a csoport.</p>
+
+            <h3>4. Letális (halálos) homozigótaság</h3>
+            <p>Vannak olyan mutáns allélok, amelyek heterozigóta formában (Aa) csak egy különleges tulajdonságot adnak, de homozigóta formában (AA vagy aa) életképtelenséget okoznak.</p>
+            <ul>
+                <li>Például egyes kutyafajtáknál vagy egereknél bizonyos színezetért felelős gének homozigóta állapotban már az anyaméhen belüli elhalást okozzák.</li>
+            </ul>
+
+            <hr>
+
+            <h2>Heterozigóta</h2>
+            <p>A heterozigóta kifejezés azt az állapotot jelöli, amikor egy egyed egy adott génből két különböző allélt (változatot) hordoz. Ez úgy jön létre, hogy az egyed az egyik szülőtől az egyik változatot (pl. domináns), a másik szülőtől pedig a másik változatot (pl. recesszív) örökli.</p>
+            <p>A heterozigóta egyedeket a genetikában gyakran hibrideknek is nevezik.</p>
+
+            <h3>1. A heterozigóta genotípusa és fenotípusa</h3>
+            <p>A heterozigóta állapot leírásakor szinte mindig egy nagybetűt és egy kisbetűt használunk:</p>
+            <ul>
+                <li>Genotípus: Aa (ahol az "A" a domináns, az "a" pedig a recesszív allél).</li>
+                <li>Fenotípus (megjelenés): Teljes dominancia esetén az egyed külsején a domináns tulajdonság látszik, de a sejtjeiben „rejtve” ott hordozza a recesszív allélt is.</li>
+            </ul>
+
+            <h3>2. A heterozigóták jelentősége: A hordozók</h3>
+            <p>A heterozigóták kulcsszerepet játszanak a genetikai sokféleség megőrzésében. Mivel rajtuk nem látszik a gyengébb (recesszív) tulajdonság, hordozóknak nevezzük őket.</p>
+            <ul>
+                <li>Rejtett variáció: Egy egészséges ember is hordozhat heterozigóta formában olyan recesszív allélokat, amelyek betegséget okoznának, ha homozigóta formában jelennének meg.</li>
+                <li>Veszély: Ha két hordozó (Aa) szülőnek gyermeke születik, 25% az esélye annak, hogy az utód homozigóta recesszív (aa) lesz, és így megjelenik rajta a szülőkben még rejtett betegség vagy tulajdonság.</li>
+            </ul>
+
+            <h3>3. Mi történik a fenotípusban? (Különböző esetek)</h3>
+            <p>A heterozigóták megjelenése attól függ, hogyan viszonyulnak egymáshoz az allélok:</p>
+            <ul>
+                <li>Teljes dominancia: Csak a domináns tulajdonság látszik (pl. barna szemű ember, aki hordozza a kék szem génjét).</li>
+                <li>Intermedier (köztes) öröklődés: A két allél "átlagolódik".</li>
+                <ul>
+                    <li>Példa: Piros virág (AA) + Fehér virág (aa) = Rózsaszín virág (Aa).</li>
+                </ul>
+                <li>Kodominancia: Mindkét allél teljes mértékben látszik.</li>
+                <ul>
+                    <li>Példa: AB vércsoport. Az egyed egyik szülőtől "A", a másiktól "B" allélt kapott, és mindkettő kifejeződik a vérsejtjein.</li>
+                </ul>
+            </ul>
+
+            <h3>4. Heterózis hatás (Hibrid vigor)</h3>
+            <p>A mezőgazdaságban megfigyelték, hogy a heterozigóta (hibrid) egyedek gyakran életerősebbek, nagyobbra nőnek és ellenállóbbak, mint a homozigóta (tiszta vonalú) szüleik. Ezt hívják heterózis hatásnak. Emiatt vásárolnak a gazdák minden évben hibrid vetőmagokat.</p>
+            <table>
+                <tr>
+                    <th>Állapot</th>
+                    <th>Genotípus</th>
+                    <th>Típus</th>
+                    <th>Fenotípus</th>
+                </tr>
+                <tr>
+                    <td>Homozigóta</td>
+                    <td>SS</td>
+                    <td>Tiszta vonal</td>
+                    <td>Sárga</td>
+                </tr>
+                <tr>
+                    <td>Heterozigóta</td>
+                    <td>Ss</td>
+                    <td>Hibrid</td>
+                    <td>Sárga (de zöldet hordoz)</td>
+                </tr>
+                <tr>
+                    <td>Homozigóta</td>
+                    <td>ss</td>
+                    <td>Tiszta vonal</td>
+                    <td>Zöld</td>
+                </tr>                
+            </table>
+
+            <hr>
+
+            <h2>Mendel törvényei</h2>
+            <p>Gregor Mendel, az ágostoni szerzetes a 19. század közepén végzett borsókísérleteivel fektette le a genetika alapjait. Megfigyeléseit három (néha négyként említett) alapvető törvénybe foglalta, amelyek a tulajdonságok öröklődésének rendjét írják le.</p>
+            <h3>1. Az uniformitás törvénye (Mendel I. törvénye)</h3>
+            <p>A hasonlóság vagy egyöntetűség törvénye.</p>
+            <ul>
+                <li>Lényege: Ha két különböző, adott tulajdonságra nézve homozigóta (tiszta származási vonalú) szülőt keresztezünk, az első utódnemzedék ($F_{1}$​) összes egyede genotípusosan és fenotípusosan is teljesen egyforma lesz.</li>
+                <li>Példa: Homozigóta sárga (SS) és homozigóta zöld (ss) borsó keresztezéséből minden utód heterozigóta sárga (Ss) lesz.</li>
+            </ul>
+            <h3>2. A szegregáció törvénye (Mendel II. törvénye)</h3>
+            <p>A hasadás törvénye.</p>
+            <ul>
+                <li>Lényege: Ha az első utódnemzedék ($F_{1}$​) heterozigóta egyedeit egymás között keresztezzük, a második utódnemzedékben ($F_{2}$​) a szülői tulajdonságok újra megjelennek, méghozzá meghatározott számarányban.</li>
+                <li>Számarányok teljes dominancia esetén:</li>
+                <ul>
+                    <li>Genotípus: 1:2:1 (1 SS,2 Ss,1 ss)</li>
+                    <li>Fenotípus: 3:1 (3 sárga,1 zöld)</li>
+                </ul>
+            </ul>
+            <p>Ez bizonyítja, hogy a recesszív allél nem tűnt el az F1​ nemzedékben, csak rejtve maradt.</p>
+            <h3>3. A független kombinálódás törvénye (Mendel III. törvénye)</h3>
+            <p>Ez a törvény akkor érvényes, ha egyszerre több, egymástól független tulajdonság öröklődését vizsgáljuk (pl. a borsó színe ÉS alakja).</p>
+            <ul>
+                <li>Lényege: A különböző tulajdonságok egymástól függetlenül öröklődnek, mert az azokat meghatározó gének külön kromoszómákon találhatók. Az utódokban a szülői tulajdonságoktól eltérő, új kombinációk is megjelennek.</li>
+                <li>Példa: Sárga-sima és zöld-ráncos szülők utódai között megjelenhet a sárga-ráncos és a zöld-sima változat is.</li>
+                <li>Fenotípusos arány ($F_{2}$​): 9:3:3:1</li>
+            </ul>
+            <h3>+1. A gaméták tisztaságának törvénye</h3>
+            <p>Ezt gyakran a szegregáció törvényének alapjaként említik.</p>
+            <ul>
+                <li>Lényege: Az ivarsejtek (gaméták) képződésekor (meiózis) a homológ kromoszómapárok elválnak, így minden ivarsejt csak egyféle allélt hordozhat egy adott tulajdonságra nézve. Az ivarsejt tehát genetikai értelemben mindig "tiszta".</li>
+            </ul>
+            <table>
+                <tr>
+                    <th>Törvény neve</th>
+                    <th>Miről szól?</th>
+                    <th>Kulcsarány ($F_{2}$​)</th>
+                </tr>
+                <tr>
+                    <td>I. Uniformitás</td>
+                    <td>Az első nemzedék egyformasága.</td>
+                    <td>100% egyforma</td>
+                </tr>
+                <tr>
+                    <td>II. Szegregáció</td>
+                    <td>A rejtett tulajdonság újra megjelenik.</td>
+                    <td>3:1</td>
+                </tr>
+                <tr>
+                    <td>III. Független kombinálódás</td>
+                    <td>Új tulajdonság-kombinációk jönnek létre.</td>
+                    <td>9:3:3:1</td>
+                </tr>
+            </table>
+            <p>Fontos megjegyzés: Mendel III. törvénye nem érvényes, ha a gének ugyanazon a kromoszómán, egymáshoz közel találhatók (ezt nevezzük génkapcsoltságnak).</p>
+        </div>
+    </main>
+</body>
+</html>

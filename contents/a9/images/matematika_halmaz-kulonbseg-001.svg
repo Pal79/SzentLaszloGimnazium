@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200"
+   viewBox="0 0 79.375 52.916665"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="matematika_halmaz-kulonbseg-001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="152.38151"
+     inkscape:cy="84.322484"
+     inkscape:window-width="960"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs420" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path509"
+       cx="28.568438"
+       cy="27.296238"
+       r="16.33284" />
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path509-3"
+       cx="50.271095"
+       cy="27.413811"
+       r="16.33284" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="12.403979"
+       y="15.84641"
+       id="text547"><tspan
+         sodipodi:role="line"
+         id="tspan545"
+         style="stroke-width:0.264583"
+         x="12.403979"
+         y="15.84641">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="64.938477"
+       y="15.341271"
+       id="text551"><tspan
+         sodipodi:role="line"
+         id="tspan549"
+         style="stroke-width:0.264583"
+         x="64.938477"
+         y="15.341271">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="6.510685"
+       y="6.5855207"
+       id="text555"><tspan
+         sodipodi:role="line"
+         id="tspan553"
+         style="stroke-width:0.264583"
+         x="6.510685"
+         y="6.5855207">különbség</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="35.13525"
+       y="8.9428387"
+       id="text559"><tspan
+         sodipodi:role="line"
+         id="tspan557"
+         style="stroke-width:0.264583"
+         x="35.13525"
+         y="8.9428387">  A \ B  </tspan></text>
+    <path
+       style="fill:#d40000;stroke:#1a1a1a;stroke-width:0.353553"
+       d="M 103.76792,163.98083 C 93.603653,163.39455 82.943449,159.76627 74.179896,153.91034 59.591689,144.16229 50.03276,128.9105 47.544621,111.4123 46.734568,105.71549 46.979344,96.643403 48.084751,91.393552 50.776947,78.607651 56.856771,67.691081 66.221455,58.828365 84.775924,41.268457 111.85421,37.176804 134.88062,48.453653 c 3.83584,1.878546 8.96436,5.161346 11.48342,7.350613 l 1.58394,1.376562 -2.76675,2.941072 c -11.5377,12.264644 -17.54265,27.144426 -17.54265,43.46924 0,16.16541 5.89691,30.96106 17.16753,43.07425 l 2.74102,2.94593 -1.02995,0.85971 c -2.43753,2.03463 -8.62196,5.95448 -11.93703,7.56599 -9.50907,4.62253 -19.68552,6.58561 -30.81223,5.94381 z"
+       id="path904"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

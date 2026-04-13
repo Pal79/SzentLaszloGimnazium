@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg1875"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="kemia_elektronburok.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1877"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73673541"
+     inkscape:cx="560.58117"
+     inkscape:cy="433.66994"
+     inkscape:window-width="960"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1872" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000080;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path1931"
+       cx="144.90872"
+       cy="99.658401"
+       r="9.3732786" />
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2037"
+       cx="144.26225"
+       cy="100.30481"
+       r="20.362629" />
+    <ellipse
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2091"
+       cx="144.90871"
+       cy="101.59769"
+       rx="39.109192"
+       ry="38.462761" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145"
+       cx="143.61584"
+       cy="63.45816"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-0"
+       cx="137.18742"
+       cy="81.235069"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-9"
+       cx="152.98911"
+       cy="64.212341"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-4"
+       cx="183.80241"
+       cy="103.57292"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-7"
+       cx="181.79129"
+       cy="112.6948"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-8"
+       cx="128.20918"
+       cy="136.68463"
+       r="2.9089472" />
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-45"
+       cx="105.72769"
+       cy="95.456589"
+       r="2.9089472" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 204.70372,171.08925 -36.84666,-37.49312 4.52502,7.75719 3.23216,-3.87859 -7.11076,-3.23217"
+       id="path2231" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="50.206287"
+       y="25.641836"
+       id="text2235"><tspan
+         sodipodi:role="line"
+         id="tspan2233"
+         style="stroke-width:0.264583"
+         x="50.206287"
+         y="25.641836">atommag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="189.18936"
+       y="27.581133"
+       id="text2239"><tspan
+         sodipodi:role="line"
+         id="tspan2237"
+         style="stroke-width:0.264583"
+         x="189.18936"
+         y="27.581133">párosított elektronok</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="26.934706"
+       y="171.73567"
+       id="text2243"><tspan
+         sodipodi:role="line"
+         id="tspan2241"
+         style="stroke-width:0.264583"
+         x="26.934706"
+         y="171.73567">párosítatlan elektronok</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="184.01787"
+       y="178.20003"
+       id="text2247"><tspan
+         sodipodi:role="line"
+         id="tspan2245"
+         style="stroke-width:0.264583"
+         x="184.01787"
+         y="178.20003">2. elektronhéj</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="211.81448"
+       y="149.11053"
+       id="text2251"><tspan
+         sodipodi:role="line"
+         id="tspan2249"
+         style="stroke-width:0.264583"
+         x="211.81448"
+         y="149.11053">1. elektronhéj</tspan></text>
+    <circle
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path2145-3"
+       cx="146.30931"
+       cy="80.516808"
+       r="2.9089472" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 187.89649,34.045461 -30.38234,21.978723 3.87859,-5.817902 2.58573,3.878604 -5.17145,1.292868"
+       id="path2300" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 204.70375,34.045461 -16.80726,62.057562 v -6.464329 l 3.23217,0.64643 -3.23217,3.878604"
+       id="path2302" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 195.00725,36.631197 -42.01813,39.432401 2.58573,-5.171461 1.9393,3.232163 -4.52503,0.646441"
+       id="path2304" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 71.538578,160.7463 29.089482,-57.53252 -4.525037,4.52503 3.878594,1.93931 0.646443,-6.46434"
+       id="path2306" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 85.760091,161.39275 34.907379,-20.03943 -7.7572,1.9393 3.23217,3.8786 3.8786,-5.8179"
+       id="path2308" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="M 67.013544,32.752604 134.889,92.87086 l -3.87861,-5.817901 -2.58572,3.232165 5.81789,1.939306"
+       id="path2310" />
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 209.87522,141.99976 -45.89675,-29.08947 5.8179,5.81787 1.9393,-3.87859 -7.11076,-1.93928"
+       id="path2312" />
+  </g>
+</svg>

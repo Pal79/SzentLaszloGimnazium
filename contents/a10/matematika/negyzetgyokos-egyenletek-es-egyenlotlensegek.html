@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Négyzetgyökös egyenletek és egyenlőtlenségek</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Négyzetgyökös egyenletek és egynlőtlenségek</h1>
+            <h2>(2200) Mely valós számok a megoldásai a következő egynleteknek?</h2>
+            <table>
+                <tr>
+                    <th>a. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x+4}=3$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$x+4 \ge 0$<br>$x \ge -4$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x+4}=3$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x+4 = 9$</td>
+                    <td>$/-4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = 5$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$\sqrt{5+4} = \sqrt{9} = 3$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>b. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x-5}=9$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$x-5 \ge 0$<br>$x \ge 5$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x-5} = 9$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x-5 = 81$</td>
+                    <td>$/+5$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = 86$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$\sqrt{86-5} = \sqrt{81} = 9$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>c. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{2x-3}=1$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$2x-3 \ge 0$<br>$2x \ge 3$<br>$x \ge \frac{3}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{2x-3} = 1$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$2x-3 = 1$</td>
+                    <td>$/+3$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$2x = 4$</td>
+                    <td>$/:2$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = 2$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$\sqrt{2 \cdot 2 - 3} = \sqrt{4-3} = \sqrt{1}= 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>d. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$3 + \sqrt{4x + 3} = 0$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$4x + 3 \ge 0$<br>$4x \ge -3$<br>$x \ge - \frac{3}{4}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{4x + 3} = 0$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x + 3 = 9$</td>
+                    <td>$/-3$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x = 6$</td>
+                    <td>$/:4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{6}{4} = \frac{3}{2}$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$3 + \sqrt{4 \cdot \frac{3}{2} + 3} = 3 + \sqrt{6 + 3} = 3 + \sqrt{9} = 6$<br><br>$6 \ne 0$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>e. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$7 - \sqrt{4x + 11} = 0$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$4x + 11 \ge 0$<br>$4x \ge -11$<br>$x \ge - \frac{11}{4}$</td>
+                </tr>
+                <tr>
+                    <td>$7 - \sqrt{4x + 11} = 0$</td>
+                    <td>$/-7$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{4x + 11} = -7$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x + 11 = 49$</td>
+                    <td>$/-11$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x = 38$</td>
+                    <td>$/:4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{38}{4} = \frac{19}{2}$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$7 - \sqrt{4 \cdot \frac{19}{2} + 11} = 7 - \sqrt{49} = 0$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>f. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{8x - 13} - 8 = 0$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$8x - 13 \ge 0$<br>$8x \ge 13$<br>$x = \frac{13}{8}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{8x - 13} - 8 = 0$</td>
+                    <td>$/+8$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$sqrt{8x - 13} = 8$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$8x - 13 = 64$</td>
+                    <td>$/+13$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$8x = 77$</td>
+                    <td>$/:8$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{77}{8} = $</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>$\sqrt{8 \cdot \frac{77}{8} - 13} - 8 = \sqrt{64} - 8 = 0$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>g. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{4x - 5} = \sqrt{x + 1}$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$4x - 5 \ge 0$ és $x + 1 \ge 0$ <br> $4x \ge 0$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 0$ <br> $x \ge \frac{5}{4}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{4x - 5} = \sqrt{x + 1}$</td>
+                    <td></td>
+                    <td>$/()^{2}$</td>
+                </tr>
+                <tr>
+                    <td>$4x - 5 = x + 1$</td>
+                    <td>$/+5$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x = x + 6$</td>
+                    <td>$/-x$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x = 6$ | $/:3$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{6}{3} = 2$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>Bal: $\sqrt{4 \cdot 2 -5} = \sqrt{3}$<br>Jobb: $\sqrt{2 + 1} = \sqrt{3}$<br><br>$\sqrt{3} = \sqrt{3}$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>h. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x + 1} = \sqrt{7x + 1}$</td>
+                    <td></td>
+                    <td>Kikötés: <br> $5x + 1 \ge 0$ és $7x + 1 \ge 0$ <br> $5x \ge -1$ &nbsp;&nbsp;&nbsp;&nbsp; $7x \ge -1$ <br> $x \ge - \frac{1}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge - \frac{1}{7}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x + 1} = \sqrt{7x + 1}$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x + 1 = 7x + 1$</td>
+                    <td>$/-1$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x = 7x$</td>
+                    <td>$/-5x$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$0 = 2x$</td>
+                    <td>$/:2$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = 0$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>Bal: $\sqrt{5 \cdot 0 + 1} = 1$<br>Jobb: $\sqrt{7 \cdot 0 + 1} = 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>i. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x - 4} = \sqrt{x - 2}$</td>
+                    <td></td>
+                    <td>Kikötés:<br> $3x - 4 \ge 0$ és $x - 2 \ge 0$ <br> $4x \ge 4$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 2$ <br> $x \ge \frac{4}{3}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x - 4} = \sqrt{x - 2}$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x - 4 = x -2$</td>
+                    <td>$/x +4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x = x + 2$</td>
+                    <td>$/-x$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$2x = 2$</td>
+                    <td>$/:2$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{2}{2} = 1$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>bal: $\sqrt{3 \cdot 1 - 4} = \sqrt{-1}$<br>jobb: $\sqrt{2 - 1} = \sqrt{1} = 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>j.feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{6x + 7} = \sqrt{x + 2}$</td>
+                    <td></td>
+                    <td>Kikötés:<br> $6x + 7 \ge 0$ és $x + 2 \ge 0$ <br> $6x \ge -7$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge -2$ <br> $x \ge - \frac{7}{6}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{6x + 7} = \sqrt{x + 2}$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$6x + 7 = x + 2$</td>
+                    <td>$/-x, -7$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x = -5$</td>
+                    <td>$/:-5$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = - \frac{5}{5} = -1$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>bal: $\sqrt{6 \cdot (-1) + 7} = \sqrt{1} = 1$<br>jobb: $\sqrt{(-1) + 2} = \sqrt{1} = 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>k. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{13x + 5} = \sqrt{24x - 3}$</td>
+                    <td></td>
+                    <td>Kikötés:<br> $13x + 5 \ge 0$ és $24x - 3 \ge 0$ <br> $13x \ge -5$ &nbsp;&nbsp;&nbsp;&nbsp; $24x \ge 3$ <br> $x \ge - \frac{5}{13}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{3}{24}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{13x + 5} = \sqrt{24x - 3}$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$13x + 5 = 24x - 3$</td>
+                    <td>$/-13x, +3$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$8 = 11x$</td>
+                    <td>$/:11$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{8}{11}$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>bal: $\sqrt{13 \cdot \frac{8}{11} + 5} = \sqrt{\frac{159}{11}}$<br>jobb: $\sqrt{24 \cdot \frac{8}{11} - 3} = \sqrt{\frac{159}{11}}$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>l. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x - 6} = \sqrt{1 - 2x}$</td>
+                    <td></td>
+                    <td>Kikötés:<br> $5x - 6 \ge 0$ és $1 - 2x \ge 0$ $/-1$ <br> $5x \ge 6$ &nbsp;&nbsp;&nbsp;&nbsp; $-2x \ge -1$ <br> $x \ge \frac{6}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{1}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x - 6} = \sqrt{1 - 2x}$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x - 6 = 1 - 2x$</td>
+                    <td>$/+6, +2x$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$7x = 7$</td>
+                    <td>$/:7$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x = \frac{7}{7} = 1$</td>
+                    <td></td>
+                    <td>Ellenőrzés:<br>bal: $\sqrt{5 \cdot 1 - 6} = \sqrt{-1}$<br>jobb: $\sqrt{1 - 2 \cdot 1} = \sqrt{-1}$</td>
+                </tr>
+            </table>
+
+            <hr>
+
+            <h2>(2201) Oldjuk meg a valós számok halmazán a következő egyenleteket</h2>
+            <table>
+                <tr>
+                    <th>a. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x + 6} = x$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$x + 6 \ge 0$<br>$x \ge - 6$ és $x \ge 0$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x + 6} = x$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x + 6 = x^{2}$</td>
+                    <td>$/-x, -6$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x^{2} - x - 6 = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 1$<br>$b = -1$<br>$c = -6$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{1 \pm \sqrt{(-1) - 4 \cdot 1 \cdot (-6)}}{2} =$<br>$\frac{1 \pm \sqrt{25}}{2} =$</td>
+                    <td>$x1 = \frac{6}{2} = 3$<br>$\frac{-4}{2} = -2$</td>
+                    <td>Megoldás: $x = 3$<br>$x2 = -2$ Nem megoldás a kikötés miatt</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>b. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x + 2} = x - 4$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$x + 2 \ge 0$ és $x - 4 \ge 0$<br>$x \ge -2$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 4$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{x + 2} = x - 4$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x + 2 = (x - 4)^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x + 2 = x^{2} - 4x - 4x + 16$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x + 2 = x^{2} - 8x + 16$</td>
+                    <td>$/-x, -2$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x^{2} - 9x + 14 = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 1$<br>$b = -9$<br>$c = 14$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{9 \pm \sqrt{(-9) - 4 \cdot 1 \cdot 14}}{2 \cdot 1} = \frac{9 \pm \sqrt{25}}{2} =$</td>
+                    <td>$x1 = \frac{14}{2} = 7$<br>$\frac{4}{2} = 2$</td>
+                    <td>Megoldás: $x = 7$<br>$x = 2$ Nem megoldás a kikötés miatt, mert $x \ge 4$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>c. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x + 1} = x - 1$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$3x + 1 \ge 0$ és $x -1 \ge 0$<br>$3x \ge -1$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 1$<br>$x \ge \frac{-1}{3}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x + 1} = x - 1$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x + 1 = (x - 1)^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x + 1 = x^{2} - 2x + 1$</td>
+                    <td>$/-3x, -1$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x^{2} - 5x = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 1$<br>$b = -5$<br>$c = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 0}}{2} = \frac{5 \pm \sqrt{25}}{2} =$</td>
+                    <td>$x1 = \frac{10}{2} = 5$<br>$x2 = 0$</td>
+                    <td>Megoldás: $x = 5$<br>$x = 0$ nem megoldás a kikötés miatt: $x \ge 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>d. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{2x + 8} = x + 4$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$2x + 8 \ge 0$ és $x + 4 \ge 0$<br>$2x \ge -8$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge -4$<br>$x \ge \frac{-8}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{2x + 8} = x + 4$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$2x + 8 = (x + 4)^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$2x + 8 = x^{2} + 8x + 16$</td>
+                    <td>$/-2x, -8$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x^{2} + 6x + 8 = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 1$<br>$b = 6$<br>$c = 8$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{-6 \pm \sqrt{6^{2} - 4 \cdot 1 \cdot 8}}{2} = \frac{-6 \pm \sqrt{4}}{2}$</td>
+                    <td>$x1 = \frac{-4}{2} = -2$<br>$x2 = \frac{-8}{2} = -4$</td>
+                    <td>Megoldás: $x = -4$ és $x = -2$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>e. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{7 - 3x} = 1 - x$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$7 - 3x \ge 0$ és $1 - x \ge 0$<br>$-3x \ge -7$ &nbsp;&nbsp;&nbsp;&nbsp; $-x \ge -1$<br>$x \le \frac{7}{3}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \le 1$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{7 - 3x} = 1 - x$</td>
+                    <td>$()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$7 - 3x = 1 - 2x + x^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$0 = x^{2} - 2x + 1 + 3x - 7$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$x^{2} + x -6$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 1$<br>$b = 1$<br>$c = -6$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$</td>
+                    <td>$x1 = \frac{4}{2} = 2$<br>$\frac{-6}{2} = -3$</td>
+                    <td>Megoldás: $x = -3$<br>$x = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>f. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x + 4} = 2x - 4$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$3x + 4 \ge 0$ és $2x - 4 \ge 0$<br>$3x \ge -4$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge 4$<br>$x \frac{-4}{3}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{4}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{3x + 4} = 2x - 4$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x + 4 = (2x - 4)^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$3x + 4 = 4x^{2} -16x + 16$</td>
+                    <td>$/-3x, -4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x^{2} -19x + 12 = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 4$<br>$b = -19$<br>$12$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{19 \pm \sqrt{(-19)^{2} - 4 \cdot 4 \cdot 12}}{2 \cdot 4} = \frac{19 \pm \sqrt{169}}{8} =$</td>
+                    <td>$x1 = \frac{32}{8} = 4$<br>$x2 = \frac{3}{4} = 0.75$</td>
+                    <td>Megoldás: $x = 4$<br>$x = \frac{3}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{4}{2}$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>g. feladat</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x + 4} = 2x + 2$</td>
+                    <td></td>
+                    <td>Kikötés:<br>$5x + 4 \ge 0$ és $2x + 2 \ge 0$<br>$5x \ge -4$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge -2$<br>$x \ge \frac{-4}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{-2}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$\sqrt{5x + 4} = 2x + 2$</td>
+                    <td>$/()^{2}$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x + 4 = (2x + 2)^{2}$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$5x + 4 = 4x^{2} + 8x + 4$</td>
+                    <td>$/-5x, -4$</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$4x^{2} + 3x = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$a = 4$<br>$b = 3$<br>$c = 0$</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>$\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} =$</td>
+                    <td>$x1 = 0$<br>$x2 = \frac{-6}{8} = \frac{-3}{4}$</td>
+                    <td>Megoldás: $x = 0$ és $x = \frac{-3}{4}$</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <th>h. feladat</th>
+                </tr>
+            </table>
+            <ul>
+                <li>$\sqrt{3x - 5} = x - 1$</li>
+                <ul>
+                    <li>Kikötés:</li>
+                    <ul>
+                        <li>$3x - 5 \ge 0 \Rightarrow 3x \ge 5 \Rightarrow x \ge \frac{5}{3}$</li>
+                        <li>$x - 1 \ge 0 \Rightarrow x \ge 1$</li>
+                    </ul>
+                </ul>
+                <li>$\sqrt{3x - 5} = x - 1$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$</li>
+                <li>$3x - 5 = (x - 1)^{2}$</li>
+                <li>$3x - 5 = x^{2} - 2x + 1$ &nbsp;&nbsp;&nbsp;&nbsp; $/-3x, +5$</li>
+                <li>$x^{2} - 5x + 6 = 0$</li>
+                <ul>
+                    <li>$a = 1$</li>
+                    <li>$b = -5$</li>
+                    <li>$c = 6$</li>
+                </ul>
+                <li>$\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} =$</li>
+                <ul>
+                    <li>$x1 = \frac{6}{2} = 3$</li>
+                    <li>$x2 = \frac{4}{2} = 2$</li>
+                </ul>
+                <li>Megoldás: $x = 3$ és $x = 2$</li>
+            </ul>
+
+            <table>
+                <tr>
+                    <th>i. feladat</th>
+                </tr>
+            </table>
+            <ul>
+                <li>$\sqrt{5x + 5} = 2x - 3$</li>
+                <ul>
+                    <li>Kikötés:</li>
+                    <ul>
+                        <li>$5x + 5 \ge 0 \Rightarrow 5x \ge -5 \Rightarrow x \ge \frac{-5}{5}$</li>
+                        <li>$2x - 3 \ge 0 \Rightarrow 2x \ge 3 \Rightarrow x \ge \frac{3}{2}$</li>
+                    </ul>
+                </ul>
+                <li>$\sqrt{5x + 5} = 2x - 3$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$</li>
+                <li>$5x + 5 = (2x - 3)^{2}$</li>
+                <li>$5x + 5 = 4x^{2} - 12x + 9$ &nbsp;&nbsp;&nbsp;&nbsp; $/-5x, -5$</li>
+                <li>$4x^{2} - 17x + 4 = 0$</li>
+                <ul>
+                    <li>$a = 4$</li>
+                    <li>$b = -17$</li>
+                    <li>$c = 4$</li>
+                </ul>
+                <li>$\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$</li>
+                <ul>
+                    <li>$x1 = \frac{32}{8} = 4$</li>
+                    <li>$x2 = \frac{2}{8} = \frac{1}{4}$</li>
+                </ul>
+                <li>Megoldás:</li>
+                <ul>
+                    <li>$x = 4$</li>
+                    <li>$x = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$</li>
+                </ul>
+            </ul>
+
+            <table>
+                <tr>
+                    <th>j.feladat</th>
+                </tr>
+            </table>
+            <ul>
+                <li>$\sqrt{x^{2} + 2x + 9} = 2x + 3$</li>
+                <ul>
+                    <li>Kikötés:</li>
+                    <ul>
+                        <li>$x^{2} + 2x + 9 \ge 0 \Rightarrow D = 2^{2} - 4 \cdot 1 \cdot 9 = -32 \Rightarrow - 32 < 0$ ezért nincs valós gyök, így: $x^{2} + 2x + 9 > 0$</li>
+                        <li>$2x + 3 \ge 0 \Rightarrow 2x \ge -3 \Rightarrow x \ge \frac{-3}{2}$</li>
+                    </ul>
+                </ul>
+                <li>$\sqrt{x^{2} + 2x + 9} = 2x + 3$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$</li>
+                <li>$x^{2} + 2x + 9 = (2x + 3)^{2}$</li>
+                <li>$x^{2} + 2x + 9 = 4x^{2} + 12x + 9$ &nbsp;&nbsp;&nbsp;&nbsp; $/-x^{2}, -2x, -9$</li>
+                <li>$3x^{2} + 10x = 0$</li>
+                <ul>
+                    <li>$a = 3$</li>
+                    <li>$b = 10$</li>
+                    <li>$c = 0$</li>
+                </ul>
+                <li>$\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6}$</li>
+                <ul>
+                    <li>$x1 = 0$</li>
+                    <li>$x2 = \frac{-20}{6} = \frac{-10}{3}$</li>
+                </ul>
+                <li>Megoldás:</li>
+                <ul>
+                    <li>$x = 0$</li>
+                    <li>$x = \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}$</li>
+                </ul>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>

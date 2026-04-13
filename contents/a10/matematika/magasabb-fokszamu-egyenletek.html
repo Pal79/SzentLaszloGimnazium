@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Magasabb fokszámú egyenletek</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Magasabb fokszámú egyenletek</h1>
+            <h2>Tk. 2177. feladat</h2>
+
+            <section class="task-card">
+                <h3>a. feladat</h3>
+                <p>$x^{4} - 5x^{2} + 4 = 0$</p>
+                <ul>
+                    <li>Új ismeretlen bevezetése: $y = x^{2}$</li>
+                </ul>
+                <p>$y^{2} - 5y + 4 = 0$</p>
+                <ul>
+                    <li>$a = 1, b = -5, c = 4$</li>
+                </ul>
+                <p>$y_{1,2} = \frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 4}}{2} = \frac{5 \pm 3}{2} =$</p>
+                <ul>
+                    <li>$y_1 = 4 \implies x^{2} = 4 \implies x_1 = 2, x_2 = -2$</li>
+                    <li>$y_2 = 1 \implies x^{2} = 1 \implies x_3 = 1, x_4 = -1$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>b. feladat</h3>
+                <p>$x^{4} - 10x^{2} + 9 = 0$</p>
+                <ul>
+                    <li>Új ismeretlen: $y = x^{2}$</li>
+                </ul>
+                <p>$y^{2} - 10y + 9 = 0 \implies y_{1,2} = \frac{10 \pm 8}{2}$</p>
+                <ul>
+                    <li>$y_1 = 9 \implies x^{2} = 9 \implies x_1 = 3, x_2 = -3$</li>
+                    <li>$y_2 = 1 \implies x^{2} = 1 \implies x_3 = 1, x_4 = -1$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>c. feladat</h3>
+                <p>$x^{4} + x^{2} - 20 = 0$</p>
+                <p>$y^{2} + y - 20 = 0 \implies y_{1,2} = \frac{-1 \pm 9}{2}$</p>
+                <ul>
+                    <li>$y_1 = 4 \implies x^{2} = 4 \implies x_1 = 2, x_2 = -2$</li>
+                    <li>$y_2 = -5 \implies x^{2} = -5 \implies$ <strong>Nincs valós megoldás</strong></li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>d. feladat</h3>
+                <p>$x^{4} - 8x^{2} - 9 = 0$</p>
+                <p>$y^{2} - 8y - 9 = 0 \implies y_{1,2} = \frac{8 \pm 10}{2}$</p>
+                <ul>
+                    <li>$y_1 = 9 \implies x_1 = 3, x_2 = -3$</li>
+                    <li>$y_2 = -1 \implies$ <strong>Nincs valós megoldás</strong></li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>e. feladat</h3>
+                <p>$x^{4} - 20x^{2} - 125 = 0$</p>
+                <p>$y^{2} - 20y - 125 = 0 \implies y_{1,2} = \frac{20 \pm 30}{2}$</p>
+                <ul>
+                    <li>$y_1 = 25 \implies x_1 = 5, x_2 = -5$</li>
+                    <li>$y_2 = -5 \implies$ <strong>Nincs valós megoldás</strong></li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>f. feladat</h3>
+                <p>$x^{4} + 11x^{2} + 28 = 0$</p>
+                <p>$y^{2} + 11y + 28 = 0 \implies y_{1,2} = \frac{-11 \pm 3}{2}$</p>
+                <ul>
+                    <li>$y_1 = -4, y_2 = -7$</li>
+                    <li>Mivel mindkét $y$ negatív, az eredeti egyenletnek <strong>nincs valós megoldása</strong>.</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>g. feladat</h3>
+                <p>$64x^{4} - 20x^{2} + 1 = 0$</p>
+                <p>$64y^{2} - 20y + 1 = 0 \implies y_{1,2} = \frac{20 \pm 12}{128}$</p>
+                <ul>
+                    <li>$y_1 = \frac{32}{128} = \frac{1}{4} \implies x_1 = \frac{1}{2}, x_2 = -\frac{1}{2}$</li>
+                    <li>$y_2 = \frac{8}{128} = \frac{1}{16} \implies x_3 = \frac{1}{4}, x_4 = -\frac{1}{4}$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>h. feladat</h3>
+                <p>$25x^{4} + 74x^{2} - 3 = 0$</p>
+                <p>$25y^{2} + 74y - 3 = 0 \implies y_{1,2} = \frac{-74 \pm 76}{50}$</p>
+                <ul>
+                    <li>$y_1 = \frac{2}{50} = \frac{1}{25} \implies x_1 = \frac{1}{5}, x_2 = -\frac{1}{5}$</li>
+                    <li>$y_2 = -3 \implies$ <strong>Nincs valós megoldás</strong></li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>i. feladat</h3>
+                <p>$x^{6} - 7x^{3} - 8 = 0$</p>
+                <ul>
+                    <li>Helyettesítés: $y = x^{3}$</li>
+                </ul>
+                <p>$y^{2} - 7y - 8 = 0 \implies y_{1,2} = \frac{7 \pm 9}{2}$</p>
+                <ul>
+                    <li>$y_1 = 8 \implies x^{3} = 8 \implies x_1 = 2$</li>
+                    <li>$y_2 = -1 \implies x^{3} = -1 \implies x_2 = -1$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>j. feladat</h3>
+                <p>$x^{6} - 28x^{3} + 27 = 0$</p>
+                <p>$y^{2} - 28y + 27 = 0 \implies y_{1,2} = \frac{28 \pm 26}{2}$</p>
+                <ul>
+                    <li>$y_1 = 27 \implies x^{3} = 27 \implies x_1 = 3$</li>
+                    <li>$y_2 = 1 \implies x^{3} = 1 \implies x_2 = 1$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>k. feladat</h3>
+                <p>$x^{6} + 9x^{3} + 8 = 0$</p>
+                <p>$y^{2} + 9y + 8 = 0 \implies y_{1,2} = \frac{-9 \pm 7}{2}$</p>
+                <ul>
+                    <li>$y_1 = -1 \implies x^{3} = -1 \implies x_1 = -1$</li>
+                    <li>$y_2 = -8 \implies x^{3} = -8 \implies x_2 = -2$</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>l. feladat</h3>
+                <p>$x^{6} - 4x^{3} - 5 = 0$</p>
+                <p>$y^{2} - 4y - 5 = 0 \implies y_{1,2} = \frac{4 \pm 6}{2}$</p>
+                <ul>
+                    <li>$y_1 = 5 \implies x^{3} = 5 \implies x_1 = \sqrt[3]{5}$</li>
+                    <li>$y_2 = -1 \implies x^{3} = -1 \implies x_2 = -1$</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+</body>
+</html>

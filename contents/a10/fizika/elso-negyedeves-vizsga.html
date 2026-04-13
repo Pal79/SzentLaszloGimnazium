@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Első negyedéves vizsga</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtam</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Első negyedéves vizsga</h1>
+            <h2>Folyadékok</h2>
+            <p>A folyadékok olyan anyagok, amelyeknek nincs állandó alakjuk, de megtartják a térfogatukat.</p>
+            <p>Felveszik az edényük alakját, részecskéik egymáson könnyen elmozdulhatnak, ezért folynak.</p>
+            <h2>Nyomás</h2>
+            <p>A nyomás a felületre merőlegesen ható nyomóerő és a felület nagyságának hányadosa.</p>
+            <ul>
+                <li>jele: $p$ ($p=\frac{F}{A}$)</li>
+                <li>mértékegysége: $[p]=\frac{[F]}{A}=\frac{N}{m^{2}}=Pa$</li>
+            </ul>
+            <p>$1 Pascal (Pa) = 1 N/m^{2}$</p>
+            <h2>Légnyomás</h2>
+            <p>A légnyomás a levegő (a légkör) által a föld felszínére és a benne lévő testekre kifejtett nyomás. Ezt a levegő súlya okozza.</p>
+            <ul>
+                <li>Tengerszinten kb.: $101 325 Pa = 1013 hPa = 1 atm$.</li>
+            </ul>
+            <img src="../../../assets/images/a10/fizika-torricelli-kiserlet.svg" alt="Toricelli kísérlet">
+            <h2>Hidrosztatikai nyomás</h2>
+            <p>A hidrosztatikai nyomás a nyugalomban lévő folyadék által a benne lévő vagy az alatta lévő pontokra gyakorolt nyomás.</p>
+            <p>Függ a folyadék sűrűségétől, a mélységtől és a nehézségi gyorsulástól:</p>
+            <p>$P_{h}=\frac{F}{A}=\frac{m_{foly} \cdot g}{A}=\frac{S_{foly} \cdot V_{foly} \cdot g}{A}=\rho_{foly} \cdot h \cdot g$</p>
+            <ul>
+                <li>$ρ$: sűrűség ($kg/m^{3}$)</li>
+                <li>$g$: nehézségi gyorsulás ($9,81 m/s^{2}$)</li>
+                <li>$h$: mélység ($m$)</li>
+            </ul>
+            <img src="../../../assets/images/a10/fizika-hidrosztatikai-nyomas.svg" alt="Hidrosztatikai nyomás">
+            <img src="../../../assets/images/a10/fizika-hidrosztatikai-nyomas-002.svg" alt="Hidrosztatikai nyomás">
+            <h2>Pascal törvénye</h2>
+            <p>Pascal törvénye kimondja, hogy a folyadékban vagy gázban keltett nyomás minden irányban egyformán terjed tovább, és ugyanakkora mértékben hat minden irányban.</p>
+            <img src="../../../assets/images/a10/fizika-pascal-torvenye.svg" alt="Pascal törvény">
+            <p>Ez a hidraulikus emelő működésének alapja.</p>
+            <h3>Hidraulikus emelő:</h3>
+            <img src="../../../assets/images/a10/fizika-hidraulikus-emelo.svg" alt="Hidraulikus emelő">
+            <h2>Archimedes törvénye</h2>
+            <p>Archimedes törvénye szerint:</p>
+            <p>Egy folyadékba vagy gázba merülő testre felhajtóerő hat, amely egyenlő a test által kiszorított folyadék súlyával.</p>
+            <img src="../../../assets/images/a10/fizika-archimedes-torvenye.svg" alt="Archimedes törvénye">
+            <p>$F_{g}=m_{t} \cdot g=m_{foly} \cdot g=V_{test} \cdot \rho _{foly} \cdot g$</p>
+            <h2>Úszás, lebegés, merülés</h2>
+            <p>A test és a folyadék sűrűségének viszonyától függ:</p>
+            <ul>
+                <li>Úszás: a test sűrűsége kisebb, mint a folyadéké → a test részben a felszínen marad.</li>
+                <li>Lebegés: a test sűrűsége megegyezik a folyadékéval → a test egyensúlyban van a folyadékban.</li>
+                <li>Merülés: a test sűrűsége nagyobb, mint a folyadéké → a test lesüllyed.</li>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Trigonometria</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+                        <h1>TRIGONOMETRIA</h1>
+
+            <table>
+                <tr>
+                    <td>$\alpha$</td>
+                    <td>$30^{\circ}$</td>
+                    <td>$45^{\circ}$</td>
+                    <td>$60^{\circ}$</td>
+                </tr>
+                <tr>
+                    <td>$sin\alpha$</td>
+                    <td>$\frac{1}{2}$</td>
+                    <td>$\sqrt{\frac{2}{2}}$</td>
+                    <td>$\sqrt{\frac{3}{2}}$</td>
+                </tr>
+                <tr>
+                    <td>$cos\alpha$</td>
+                    <td>$\sqrt{\frac{3}{2}}$</td>
+                    <td>$\sqrt{\frac{2}{2}}$</td>
+                    <td>$\frac{1}{2}$</td>
+                </tr>
+                <tr>
+                    <td>$tg\alpha$</td>
+                    <td>$\frac{1}{\sqrt{3}}$</td>
+                    <td>$1$</td>
+                    <td>$\sqrt{3}$</td>
+                </tr>
+                <tr>
+                    <td>$ctg\alpha$</td>
+                    <td>$\sqrt{3}$</td>
+                    <td>$1$</td>
+                    <td>$\frac{1}{\sqrt{3}}$</td>
+                </tr>
+            </table>
+
+            <hr>
+
+            <h2>Háromszög részei:</h2>
+            <ul>
+                <li><code>a</code> az <b>$\alpha$</b>-val szemközti befogó.</li>
+                <li><code>b</code> az <b>$\alpha$</b>-val szomszédos befogó</li>
+                <li><code>c</code> az átfogó</li>
+            </ul>
+
+            <img src="../../../assets/images/a10/matematika-trigonometria.svg" alt="">
+
+            <hr>
+
+            <h2>Definíciók</h2>
+            <h3>Szinusz</h3>
+            <ul>
+                <li>
+                    A <code>szinusz</code> egy derékszögű háromszögben a szöggel szemközti befogó és az átfogó aránya. (hegycsúcsok magasságának a kiszámításához a mai napig használják).
+                    <ul>
+                        <li>$sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Koszinusz</h3>
+            <ul>
+                <li>
+                    A <code>koszinusz</code> a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
+                    <ul>
+                        <li>$cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Tangens</h3>
+            <ul>
+                <li>
+                    A <code>tangens</code> a befogókról szól: a szöggel szemközti és a szög melletti befogók arányát írja le.
+                    <ul>
+                        <li>$tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Kotangens</h3>
+            <ul>
+                <li>
+                    A <code>kotangens</code> a tangens reciproka, vagyis a két befogó arányát fordítva adja meg.
+                    <ul>
+                        <li>$cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h2>Mikor melyiket használjuk?</h2>
+            <h3>Ha egy szög és az átfogó ismert $\implies$ szinusz vagy koszinusz</h3>
+            <ol>
+                <li>
+                    <code>Szinusz</code>: ha a <code>szemközti befogó</code>t keresed:
+                    <ul>
+                        <li>$a = c \cdot sin(\alpha)$</li>
+                    </ul>
+                </li>
+                <li>
+                    - <code>Koszinusz</code>: ha a <code>szomszédos befogó</code>t keresed:
+                    <ul>
+                        <li>$b = c \cdot cos(\alpha)$</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h4>Tipikus feladatok:</h4>
+            <ul>
+                <li>magasság számítása (pl. hegy, torony, antenna)</li>
+                <li>létra dőlésszöge és hossza</li>
+                <li>ferde sík feladatok</li>
+            </ul>
+
+            <h3>Ha egy szög és egy befogó ismert $\implies$ tangens vagy kotangens</h3>
+            <ol>
+                <li>
+                    <code>Tangens</code>: ha a <code>szemközti befogó</code>t akarod a szomszédosból
+                    <ul>
+                        <li>$a = b \cdot tan(\alpha)$</li>
+                    </ul>
+                </li>
+                <li>
+                    <code>Kotangens</code>: ha a <code>szomszédos befogó</code>t akarod a szemköztiből
+                    <ul>
+                        <li>$b = a \cdot cot(\alpha)$</li>
+                    </ul>
+                </li>
+            </ol>
+            <h4>Tipikus feladatok:</h4>
+            <ul>
+                <li>távolság–magasság összefüggések</li>
+                <li>lejtők, rámpák, tetők dőlésszöge</li>
+                <li>kamerák, reflektorok látószöge</li>
+            </ul>
+
+            <h3>Ha két befogó ismert $\implies$ tangens vagy kotangens adja a szöget</h3>
+            <ol>
+                <li>
+                    <code>Tangens</code>:
+                    <ul>
+                        <li>$\alpha = tan^{-1}(\frac{a}{b})$</li>
+                    </ul>
+                </li>
+                <li>
+                    <code>Kotangens</code>:
+                    <ul>
+                        <li>$\alpha = cot^{-1} \left (\frac{b}{a}\right)$</li>
+                    </ul>
+                </li>
+            </ol>
+            <h4>Tipikus feladatok:</h4>
+            <ul>
+                <li>dőlésszög meghatározása</li>
+                <li>emelkedők, lejtők meredeksége</li>
+                <li>kamerák, antennák beállítása</li>
+            </ul>
+
+            <h3>Ha egy befogó és az átfogó ismert $\implies$ szinusz vagy koszinusz adja a szöget</h3>
+            <ol>
+                <li>
+                    <code>Szinusz</code>:
+                    <ul>
+                        <li>$\alpha = \arcsin(\frac{a}{c})$</li>
+                    </ul>
+                </li>
+                <li>
+                    <code>Koszinusz</code>:
+                    <ul>
+                        <li>$\alpha = \arccos(\frac{b}{c})$</li>
+                    </ul>
+                </li>
+            </ol>
+            <h4>Tipikus feladatok:</h4>
+            <ul>
+                <li>háromszög szögeinek meghatározása</li>
+                <li>fizikai feladatok (erők felbontása)</li>
+                <li>optikai szögek, beesési szögek</li>
+            </ul>
+
+            <hr>
+
+            <h2>Összefoglaló</h2>
+            <ul>
+                <li>Szinusz $\implies$ szemközti / átfogó</li>
+                <li>Koszinusz $\implies$ szomszédos / átfogó</li>
+                <li>Tangens $\implies$ szemközti / szomszédos</li>
+                <li>Kotangens $\implies$ szomszédos / szemközti</li>
+            </ul>
+            <p>Ha átfogó van $\implies$ sin/cos</p>
+            <p>Ha befogó van $\implies$ tan/cot</p>
+            <p>Ha szöget keresel $\implies$ $sin^{-1}/cos^{-1}/tan^{-1}/cot^{-1}$</p>
+            <ul>
+                <li>
+                    [Összes trigonometriai alak](./osszes-trigonometriai-alak.md)
+                </li>
+                <li>
+                    [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
+                </li>
+            </ul>
+
+            <hr>
+
+            <h2>Feladatok / megoldások</h2>
+            <h4>1. feladat</h4>
+            <p>Egy derékszögű háromszög egyik befogója $a = 12\text{ cm}$, a hozzá tartozó szög pedig $\alpha = 35^\circ$.</p>
+            <p>Számítsd ki a másik befogót.</p>
+            <ul>
+                <li>$a = 12 \text{cm}$</li>
+                <li>$\alpha = 35^\circ$</li>
+                <li>
+                    $b = ?$
+                    <ul>
+                        <li>$b = a \cdot cot(\alpha) = 12 \cdot cot(35) = 17.13777608\text{cm}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>2. feladat</h4>
+            <p>Egy létra $4\text{m}$ hosszú, és $70^\circ$-os szöget zár be a talajjal.</p>
+            <p>Milyen magasra ér fel a falon?</p>
+            <ul>
+                <li>$c = 4\text{m}$</li>
+                <li>$\alpha = 70^\circ$</li>
+                <li>
+                    $a = ?$
+                    <ul>
+                        <li>$a = c \cdot sin(\alpha) = 4 \cdot sin(70) = 3.758770483\text{m}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>3. feladat</h4>
+            <p>Egy domb tetejéről egy autó $8^\circ$-os depressziószög alatt látszik. A domb magassága $30\text{m}$.</p>
+            <p>Milyen messze van az autó a domb lábától?</p>
+            <ul>
+                <li>$\alpha = 8^\circ$</li>
+                <li>$a = 30\text{m}$</li>
+                <li>
+                    $b = ?$
+                    <ul>
+                        <li>$b = a \cdot cot(\alpha) = 30 \cdot cot(8) = 213.4610917\text{m}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>4. feladat</h4>
+            <p>Egy torony tetejéről egy templom tornya $12^\circ$-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság $150\text{m}$.</p>
+            <p>Milyen magas a templom tornya, ha a megfigyelő torony $40\text{m}$ magas?</p>
+            <ul>
+                <li>$\alpha = 12^\circ$</li>
+                <li>$b = 150\text{m}$</li>
+                <li>$a = ?$</li>
+                <li>
+                    $Saját_{magasság} = 40\text{m}$
+                    <ul>
+                        <li>$a = b \cdot tan(\alpha) = 150 \cdot tan(12) = 31.88348425m$</li>
+                        <li>$Saját_{magasság} + a = 40 + 31.88348425 = 71.88348425m$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>5. feladat</h4>
+            <p>Egy hajó $25^\circ$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.</p>
+            <p>Milyen magas a szikla?</p>
+            <ul>
+                <li>$\alpha = 25^\circ$</li>
+                <li>$b = 180\text{m}$</li>
+                <li>
+                    $a = ?$
+                    <ul>
+                        <li>$a = b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>6. feladat</h4>
+            <p>Egy háromszög két oldala:</p>
+            <p>$a = 18\text{ cm}$, $b = 25\text{ cm}$, és a közbezárt szög $\gamma = 47^\circ$.</p>
+            <p>Számítsd ki a harmadik oldalt (koszinusztétel).</p>
+            <ul>
+                <li>$a = 18\text{ cm}$</li>
+                <li>$b = 25\text{ cm}$</li>
+                <li>$\gamma = 47^\circ$</li>
+                <li>
+                    $c = ?$
+                    <ul>
+                        <li>$c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>7. feladat</h4>
+            <p>Egy háromszögben:</p>
+            <p>$a = 12\text{ cm}$, $b = 15\text{ cm}$, $c = 17\text{ cm}$.</p>
+            <p>Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).</p>
+            <ul>
+                <li>$a = 12\text{ cm}$</li>
+                <li>$b = 15\text{ cm}$</li>
+                <li>
+                    $c = 17\text{ cm}$
+                    <ul>
+                        <li>$cos(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222$</li>
+                        <li>$\gamma = arccos(0.2222) \approx 77.16^\circ$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>8. feladat</h4>
+            <p>Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^\circ$-os szöget zár be a talajjal.</p>
+            <p>Milyen hosszú a drótkötél?</p>
+            <ul>
+                <li>$a = 60\text{m}$</li>
+                <li>$\alpha = 40^\circ$</li>
+                <li>
+                    $c = ?$
+                    <ul>
+                        <li>$sin(\alpha) = \frac{a}{c} \implies c = \frac{a}{sin(\alpha)} = \frac{60}{sin(40)} = 93.34342961\text{m}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>9. Feladat</h4>
+            <p>Egy repülőgép $5^\circ$-os emelkedési szöggel emelkedik. Mekkora magasságot ér el $2\text{km}$ vízszintes megtétele után?</p>
+            <ul>
+                <li>$\alpha = 5^{\circ}$</li>
+                <li>$b = 2\text{km}$</li>
+                <li>
+                    $a = ?$
+                    <ul>
+                        <li>$a = b \cdot tan(\alpha) = 2 \cdot 5 = 0.1749773271{km}$</li>
+                        <li>$a \approx 175\text{m}$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4>10. feladat</h4>
+            <p>Egy hegycsúcsot két különböző pontból figyelünk.</p>
+            <p>Az első pontból a csúcs emelkedési szöge $18^\circ$, a második pontból (ami $300\text{m}$-el közelebb van a hegyhez) $25^\circ$.</p>
+            <p>Milyen magas a hegy?</p>
+            <br>
+            <p>Mivel két pont van, ezért két háromszögről beszélünk:</p>
+            <ul>
+                <li>első hely távolabb van: kisebb szög $18^{\circ}$</li>
+                <li>második hely közelebb van: nagyobb szög $25^{\circ}$</li>
+            </ul>
+            <p>Jelölések bevezetése:</p>
+            <ul>
+                <li>$h = \text{hegy magassága}$</li>
+                <li>$x_{1} = \text{első megfigyelési pont vízszintes távolsága}$</li>
+                <li>$x_{2} = \text{második megfigyelési pont vízszintes távolsága}$</li>
+                <li>mivel a második pont közelebb van: $x_{2} = x_{1} - 300m$</li>
+            </ul>
+            <p>Két derékszögű háromszög trigonometriai egyenletei:</p>
+            <ul>
+                <li>
+                    Mindkét háromszögben a hegy magassága a szemközti befogó, a vízszintes távolság a szomszédos befogó.
+                    <ul>
+                        <li>Első pont: $tan(18^\circ) = \frac{h}{x_{1}}$</li>
+                        <li>Második pont: $tan(25^\circ) = \frac{h}{x_{2}}$</li>
+                    </ul>
+                </li>
+            </ul>
+            <p>Magasság kifejezése:</p>
+            <ul>
+                <li>Első pont: $h = x_{1} \cdot tan(18^\circ)$</li>
+                <li>
+                    Második pont: $h = x_{2} \cdot tan(25^\circ)$
+                    <ul>
+                        <li>
+                            Mindkét pont ugyanazt a magasságot írja le, tehát a két $h$ egyenlő, ezért:
+                            <ul>
+                                <li>$x_{1} \cdot tan(18^\circ) = x_{2} \cdot tan(25^\circ)$</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <p>Behelyettesítés:</p>
+            <ul>
+                <li>$x_{1} \cdot tan(18^\circ) = (x_{1} - 300) tan(25^\circ)$</li>
+            </ul>
+            <p>Zárójel kibontás:</p>
+            <ul>
+                <li>$x_{1} \cdot tan(18^\circ) = x_{1} \cdot tan(25^\circ) - 300 \cdot tan(25^\circ)$</li>
+            </ul>
+            <p>Átrendezés, hogy az 'x'-es tagok egy oldalt legynek:</p>
+            <ul>
+                <li>$x_1 \tan(18^\circ) - x_1 \tan(25^\circ) = -300 \tan(25^\circ)$</li>
+                <li>Kivonjuk: $x_1(\tan(18^\circ) - \tan(25^\circ)) = -300 \tan(25^\circ)$</li>
+                <li>mindkét oldalt $-1$-el szorzunk: $x_1(\tan(25^\circ) - \tan(18^\circ)) = 300 \tan(25^\circ)$</li>
+            </ul>
+            <p>Kifejezzük $x_{1}-et$, majd számolunk:</p>
+            <ul>
+                <li>
+                    $x_1 = \frac{300 \tan(25^\circ)}{\tan(25^\circ) - \tan(18^\circ)}$
+                    <ul>
+                        <li>$\tan(25^\circ) \approx 0.46631$</li>
+                        <li>$\tan(18^\circ) \approx 0.32492$</li>
+                    </ul>
+                </li>
+                <li>$x_1 = \frac{300 \cdot 0.46631}{0.46631 - 0.32492}$</li>
+                <li>$x_1 = \frac{139.8922974}{0.1413879619} \approx 989.421557$</li>
+            </ul>
+            <p>Végül a hegy magasságának kiszámítása:</p>
+            <ul>
+                <li>$h = x_1 \tan(18^\circ)$</li>
+                <li>$h = 989.421557 \cdot 0.32492 \approx 321.4825517\text{m}$</li>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>

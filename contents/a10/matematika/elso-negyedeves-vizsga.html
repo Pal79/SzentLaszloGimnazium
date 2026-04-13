@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Első negyedéves vizsga</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Gyökvonás</h1>
+            
+            <section class="theory-card">
+                <ul>
+                    <li>$\sqrt{9} = 3$, mert $3^{2} = 9$</li>
+                    <li>$\sqrt{16} = 4$, mert $4^{2} = 16$</li>
+                </ul>
+                
+                <blockquote class="warning">
+                    <p><strong>Páros gyökvonásnál kikötés kell:</strong></p>
+                    <p>$K: a \ge 0 \implies (\sqrt[n]{a})^{n} = a$</p>
+                </blockquote>
+
+                <blockquote class="info">
+                    <p><strong>Páratlan gyökvonásnál nem kell kikötés:</strong></p>
+                    <p>$(\sqrt[3]{a})^{3} = a$</p>
+                </blockquote>
+            </section>
+
+            <section class="task-card">
+                <h3>Általános alakja:</h3>
+                <p>$\sqrt[n]{a} = b$, ha $b^{n} = a$</p>
+                <ul>
+                    <li>$a$ = alap (gyök alatti szám)</li>
+                    <li>$n$ = gyök fokszáma (ha nincs kiírva, $n = 2$)</li>
+                    <li>$b$ = gyökérték</li>
+                </ul>
+            </section>
+
+            <section class="task-card">
+                <h3>Műveletek gyökökkel</h3>
+                <p>Szorzat vagy osztás esetén a gyök szétbontható:</p>
+                <p>$$\sqrt[n]{a \cdot b} = \sqrt[n]{a} \cdot \sqrt[n]{b}$$</p>
+                
+                <p><strong>Példák:</strong></p>
+                <ul>
+                    <li>$\sqrt[3]{8x^{3}} = \sqrt[3]{8} \cdot \sqrt[3]{x^{3}} = 2x$</li>
+                    <li>$\sqrt[4]{16a^{4} \cdot b^{8}} = 2ab^{2}$</li>
+                    <li>$\sqrt[5]{\frac{32a^{10}}{b^{5}}} = \frac{2a^{2}}{b}$</li>
+                </ul>
+
+                <blockquote class="error">
+                    <p><strong>VIGYÁZAT!</strong> Összeadásnál és kivonásnál nem bontható szét:</p>
+                    <p>$\sqrt[n]{a \pm b} \neq \sqrt[n]{a} \pm \sqrt[n]{b}$</p>
+                    <p><em>Példa:</em> $\sqrt{9+16} = 5$, de $\sqrt{9}+\sqrt{16} = 7$. A gyökvonás nem disztributív az összeadásra.</p>
+                </blockquote>
+            </section>
+
+            <h2>Algebrai gyökvonás</h2>
+            <section class="task-card">
+                <p>A gyök felírható törtkitevős hatványként is:</p>
+                <p>$$\sqrt[n]{a^{m}} = a^{\frac{m}{n}}$$</p>
+                <p><strong>Példa:</strong> $\sqrt[5]{b^{3}} = b^{\frac{3}{5}}$</p>
+                <ul>
+                    <li>$p$ (számláló) = hatványkitevő</li>
+                    <li>$q$ (nevező) = gyök fokszáma</li>
+                </ul>
+            </section>
+
+            <h2>Kiemelés a gyökjel alól</h2>
+            <section class="task-card">
+                <p>Példa: $\sqrt[4]{32}+\sqrt[4]{162}$</p>
+                <ol>
+                    <li><strong>Feltörés:</strong> $\sqrt[4]{16 \cdot 2} + \sqrt[4]{81 \cdot 2}$</li>
+                    <li><strong>Szétbontás:</strong> $\sqrt[4]{16} \cdot \sqrt[4]{2} + \sqrt[4]{81} \cdot \sqrt[4]{2}$</li>
+                    <li><strong>Egyszerűsítés:</strong> $2\sqrt[4]{2} + 3\sqrt[4]{2}$</li>
+                    <li><strong>Összevonás:</strong> $5\sqrt[4]{2}$</li>
+                </ol>
+            </section>
+
+            <h1>Másodfokú egyenlet három alakja</h1>
+            
+            <section class="task-card">
+                <h3>1. Általános alak</h3>
+                <p>$$ax^{2} + bx + c = 0$$</p>
+                <p>Példa: $x^{2} - 2x - 3 = 0 \implies x_1 = 3, x_2 = -1$</p>
+                <p>Megoldás a megoldóképlettel: $x_{1,2} = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$</p>
+            </section>
+
+            <section class="task-card">
+                <h3>2. Szorzat alak (Gyöktényezős alak)</h3>
+                <p>$$a(x-x_1)(x-x_2) = 0$$</p>
+                <p>Példa: $(x-3)(x+1) = 0$</p>
+                <p>Ez az alak közvetlenül megmutatja a zérushelyeket ($3$ és $-1$).</p>
+            </section>
+
+            <section class="task-card">
+                <h3>3. Teljes négyzet alak</h3>
+                <p>$$a(x-u)^{2} + v = 0$$</p>
+                <p>Példa: $(x-1)^{2} - 4 = 0$</p>
+                <p>Ez az alak a parabola csúcspontját adja meg: $C(1; -4)$.</p>
+                <div style="text-align: center; margin-top: 20px;">
+                    <img src="../images/parabola.svg" alt="parabola grafikon" style="max-width: 100%; height: auto;">
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+</html>

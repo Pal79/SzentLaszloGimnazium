@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Elektromos áram</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtam</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Elektromos áram</h1>
+            <p>A töltéshordozók (elektornok vagy ionok) rendezett egyirányú mozgása.</p>
+            <ul>
+                <li>Az elektromos áram felosztása</li>
+                <ul>
+                    <li>**Vezetési áram** - (Amikor a töltéshordozók a vezető anyagával együtt végeznek rendezett egyirányú mozgást (pl.: elhajított kulcscsomó))</li>
+                    <li>**Szállítási áram** - (Amikor a töltéshordozók a vezetőben uralkodó térerősség (feszültség) hatására végeznek egyirányú egyenletes mozgást)</li>
+                    <ol>
+                        <li>Váltakozó áram (Váltóáram) - pl.: konektor</li>
+                        <ul>
+                            <li>Frekvenciája: 50Hz</li>
+                            <li>Feszültsége: 230V</li>
+                            <li>Váltakozó áram hatásai: hőhatás, biológiai vagy élettani hatás</li>
+                        </ul>
+                        <li>Egyenáram - elemek, akkuk</li>
+                        <ul>
+                            <li>Egyenáram hatásai: hőhatás, fényhatás, kémiai hatás, biológiai vagy élettani hatás, mágneses hatás</li>
+                        </ul>
+                    </ol>
+                </ul>
+            </ul>
+            <h2>Elektromos áram jellemzése</h2>
+            <h3>Áramerősség:</h3>
+            <p>A vezető keresztmetszetén áthaladó töltésmennyiség és az áthaladó idejének hányadosa.</p>
+            <p>Jele: $I = \frac{Q}{t}$</p>
+            <p>Mértékegysége: $[I] = \frac{[Q]}{[t]} = \frac{C}{s} = A$ (C = Columb (töltés mértékegysége))</p>
+            <h3>Kontinuitási törvény (folytonossági törvény):</h3>
+            <p>Elágazásmentes vezetőben a töltéshordozók nem halmozódhatnak fel. Ezért a vezető bármely keresztmetszetén ugyanannyi töltés áramlik át egységnyi idő alatt, tehát a vezető teljes hosszában ugyanekkora az áramerősség.</p>
+            <p>Érdekesség: Ez akkor is igaz, ha a vezető helyenként elvékonyodik vagy kiszélesedik. Ott, ahol vékonyabb a vezeték, a töltéshordozók sebessége (vándorlási sebessége) megnő, hogy ugyanannyi töltés érjen át ugyanannyi idő alatt.</p>
+            <h3>Ohm törvény:</h3>
+            <p>A vezetőre kapcsolt feszültség egyenesen arányos a hatására a vezetőben megindult áram áramerősségével, azaz hányadosuk állandó, ezt az állandót a vezető ellenállásának nevezzük.</p>
+            <p>Jele: $R = \frac{U}{I}$</p>
+            <p>Mértékegysége: $[R] = \frac{[U]}{[I]} = \frac{V}{A} = \Omega$</p>
+            <h3>A vezeték ellenállása:</h3>
+            <p>A vezeték ellenállása egyenesen arányos a vezető hosszával.  $R = \rho \frac{L}{A}$, ahol $\rho$ a fajlagos ellenállás, $l$ a hossz, $A$ pedig a keresztmetszet.</p>
+            <h3>Kirchhoff törvény</h3>
+        </div>
+    </main>
+</body>
+</html>

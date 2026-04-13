@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200"
+   viewBox="0 0 79.375 52.916665"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="foldrajz_kepler_002.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="152.02796"
+     inkscape:cy="83.615377"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs420" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path306"
+       cx="38.100613"
+       cy="18.025997"
+       rx="26.014681"
+       ry="14.059714" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 28.082009,29.728395 2.357316,1.683798 -2.694075,1.010277"
+       id="path423" />
+    <circle
+       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:0.264583"
+       id="path589"
+       cx="46.154774"
+       cy="18.278564"
+       r="5.051394" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="44.527096"
+       y="19.793989"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         style="stroke-width:0.264583"
+         x="44.527096"
+         y="19.793989">N</tspan></text>
+    <g
+       id="g1027"
+       transform="translate(-2.525697,-9.7660251)">
+      <circle
+         style="fill:#6c5d53;stroke:#6c5d53;stroke-width:0.264583"
+         id="path643"
+         cx="15.565776"
+         cy="24.171856"
+         r="2.8624573" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
+         x="14.218733"
+         y="25.687275"
+         id="text699"><tspan
+           sodipodi:role="line"
+           id="tspan697"
+           style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+           x="14.218733"
+           y="25.687275">B</tspan></text>
+    </g>
+    <g
+       id="g1027-3"
+       transform="translate(46.641207,-0.9167309)">
+      <circle
+         style="fill:#6c5d53;stroke:#6c5d53;stroke-width:0.264583"
+         id="path643-6"
+         cx="15.565776"
+         cy="24.171856"
+         r="2.8624573" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
+         x="14.218733"
+         y="25.687275"
+         id="text699-7"><tspan
+           sodipodi:role="line"
+           id="tspan697-5"
+           style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+           x="14.218733"
+           y="25.687275">B</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 17.586335,15.079348 22.394516,2.357315 -19.363677,7.913852"
+       id="path1145" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       d="m 58.502629,21.81454 -6.566818,-1.683798 3.535979,5.219773"
+       id="path1210" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="21.964209"
+       y="21.982918"
+       id="text1214"><tspan
+         sodipodi:role="line"
+         id="tspan1212"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="21.964209"
+         y="21.982918">T1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="23.98477"
+       y="14.069067"
+       id="text1218"><tspan
+         sodipodi:role="line"
+         id="tspan1216"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="23.98477"
+         y="14.069067">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="54.798275"
+       y="18.783705"
+       id="text1222"><tspan
+         sodipodi:role="line"
+         id="tspan1220"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="54.798275"
+         y="18.783705">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="55.135017"
+       y="24.845371"
+       id="text1226"><tspan
+         sodipodi:role="line"
+         id="tspan1224"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="55.135017"
+         y="24.845371">T2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="3.2740517"
+       y="36.800343"
+       id="text1230"><tspan
+         sodipodi:role="line"
+         id="tspan1228"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="3.2740517"
+         y="36.800343">Mikor messzebb van (naptávolban), lassabban mozog</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="3.2740517"
+         y="40.328117"
+         id="tspan1232">mikor közelebb (napközelben), akkor gyorsabban.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:none;stroke:#1a1a1a;stroke-width:0.264583"
+       x="4.2843294"
+       y="47.07151"
+       id="text1236"><tspan
+         sodipodi:role="line"
+         id="tspan1234"
+         style="stroke-width:0.264583"
+         x="4.2843294"
+         y="47.07151">Amit T1 és T2 leír, azon pályák egyenlőek.</tspan></text>
+  </g>
+</svg>

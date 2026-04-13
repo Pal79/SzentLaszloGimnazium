@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Folyadékok</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtam</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Folyadékok</h1>
+            <p>Felveszik a tárolóedény alakját, részecskék egymáson könnyen elgördülnek egymáson.</p>
+            <br>
+            <p>Érintőirányú feszültségek nem lépnek fel bennük, a folyadékrétegek egymáson könnyen el tudnak mozdulni.</p>
+            <br>
+            <p>A sűrűssége lényegében állandó, ezért lényegében nem összenyomható, vagyis térfogata állandó.</p>
+            <br>
+            <p>Diffundál, diffúzióra képes (pl. a festék részecskéi behatolnak a részecskék közé)</p>
+            <h2>Térfogat</h2>
+            <ul>
+                <li>jele: V</li>
+                <li>mértékegysége: $m^{3}$, $cm^{3}$</li>
+            </ul>
+            <h2>Sűrűség</h2>
+            <p>$[\rho]=\frac{m}{V}=\frac{Kg}{m^{3}}$</p>
+
+            <h1>Nyomás</h1>
+            <p>A felületre egyenesen ható nyomóerő és a felület nagyságának hányadosa.</p>
+            <ul>
+                <li>Jele: $p$</li>
+                <li>Mértékegysége: $p = \frac{F}{A} = [p] = \frac{[F]}{[A]} = \frac{N}{m^{2}} = Pa$</li>
+            </ul>
+
+            <h1>Légnyomás</h1>
+            <p>A levegő súlyából származó nyomás értéke: $1.01 * 10 Pa = 10^{5}Pa$</p>
+            <p>A nyomás mértékegysége az SI-rendszerben a pascal ($Pa$). Mivel a légköri nyomás értéke viszonylag nagy, a hétköznapi életben és a meteorológiában gyakran használatosak más mértékegységek is. Ezek a következők:</p>
+            <ul>
+                <li>Bar ($1 bar = 100 000 Pa$)</li>
+                <li>Atmoszféra (atm) ($1 atm ≈ 101 325 Pa$, ami a tengerszinten mért átlagos légköri nyomás)</li>
+                <li>Higanymilliméter (Hgmm) vagy torr ($1 atm = 760 Hgmm$)</li>
+            </ul>
+            <h2>Torricelli-féle kísérlet</h2>
+            <img src="../../../assets/images/a10/fizika-torricelli-kiserlet.svg" alt="torricelli kísérlet">
+
+            <h1>Hidrosztatikai nyomás</h1>
+            <p>A folyadék súlyából származó nyomás.</p>
+            <img src="../../../assets/images/a10/fizika-hidrosztatikai-nyomas.svg" alt="hidrosztatikai nyomás">
+            <p>$Ph = \frac{F}{A} = \frac{m_{foly} * g}{A} = \frac{S_{foly} * V_{foly} * g}{A} = \frac{\rho * A * h * g}{A} = \rho_{foly} * g * h$</p>
+            <br>
+            <p>A hidrosztatikai nyomás, csak a folyadék oszlop magasságától függ.</p>
+            <img src="../../../assets/images/a10/fizika-hidrosztatikai-nyomas-002.svg" alt="hidrosztatikai nyomás">
+            <h1>Pascal törvénye</h1>
+            <p>Zárt edényben a külső erők által gerjeszett nyomás gyengítetlenül terjed tovább. $P_{1} = P_{2} = ...$</p>
+            <img src="../../../assets/images/a10/fizika-pascal-torvenye.svg" alt="pascal törvénye">
+            <h2>Hidraulikus emelő működési elve</h2>
+            <img src="../../../assets/images/a10/fizika-hidraulikus-emelo.svg" alt="hidraulikus emelő">
+            <p>
+                $$
+                \begin{aligned}
+                P_{1} = P_{2} \\
+                \frac{F_{1}}{A_{1}} = \frac{F_{2}}{A_{2}} \\
+                \frac{F_{1}}{F_{2}} = \frac{A_{1}}{A_{2}} \\ \\
+                A_{1} >> A_{2} => F_{1} >> F_{2}
+                \end{aligned}
+                $$
+            </p>
+
+            <h1>Archimedes törvénye</h1>
+            <p>Minden folyadékba és gázba mártott testre, felhajterő hat, amelynek nagysága egyenlő a test által kiszorított folyadék súlyával.</p>
+            <img src="../../../assets/images/a10/fizika-archimedes-torvenye.svg" alt="archimedes torvénye">
+            <p>$F_{h} = V_{test} * \rho_{foly} * g$</p>
+            <br>
+            <p>$F_{g} = m_{t} * g = m_{foly} * g = V_{test} * \rho_{foly} * g$</p>
+
+            <h1>Úszás, lebegés, merülés</h1>
+            <h2>Úszás</h2>
+            <ul>
+                <li>$V_{test} > V^{'}$</li>
+                <li>$F_{h} = F_{g}$</li>
+                <li>Képlet: $V^{'}\rho_{foly} * g = V_{test} * \rho{test} * g$</li>
+                <li>$V^{'} * \rho_{foly} = V_{test} * \rho_{test}$</li>
+                <li>$\rho_{foly} > \rho_{test}$</li>
+                <li>$[\rho_{foly} > \rho_{test}]$</li>
+            </ul>
+            <h2>Lebegés</h2>
+            <p>$V_{test} = V^{'}$</p>
+            <br>
+            <p>$\rho_{foly} = \rho_{test}$ a test és a folyadék sűrűsége megegyezik</p>
+            <h2>merülés</h2>
+            <p>$V_{test} < V^{'}$</p>
+            <br>
+            <p>$\rho_{foly} < \rho_{test}$</p>
+        </div>
+    </main>
+</body>
+</html>

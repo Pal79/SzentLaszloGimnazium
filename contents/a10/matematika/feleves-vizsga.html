@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Féléves vizsga</title>
+    <link rel="stylesheet" href="../../../assets/style/style.css">
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">SzLG</a>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <nav>
+            <a href="../../../index.html">Főoldal</a>
+            <div class="dropdown">
+                <a href="#">9 / A</a>
+                <div class="dropdown-menu">
+                    <a href="#">Angol</a>
+                    <a href="#">Biológia</a>
+                    <a href="#">Digitális Kultúra</a>
+                    <a href="#">Fizika</a>
+                    <a href="#">Földrajz</a>
+                    <a href="#">Irodalom</a>
+                    <a href="#">Kémia</a>
+                    <a href="#">Matematika</a>
+                    <a href="#">Nyelvtan</a>
+                    <a href="#">Történelem</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">10 / A</a>
+                <div class="dropdown-menu">
+                    <a href="../angol.html">Angol</a>
+                    <a href="../biologia.html">Biológia</a>
+                    <a href="../digitalis-kultura.html">Digitális Kultúra</a>
+                    <a href="../fizika.html">Fizika</a>
+                    <a href="../foldrajz.html">Földrajz</a>
+                    <a href="../irodalom.html">Irodalom</a>
+                    <a href="../kemia.html">Kémia</a>
+                    <a href="../matematika.html">Matematika</a>
+                    <a href="../nyelvtan.html">Nyelvtan</a>
+                    <a href="../tortenelem.html">Történelem</a>
+                </div>
+            </div>
+            <a href="../orarend.html">Órarend</a>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            <h2>Számtani és mértani közép</h2>
+            <ul>
+                <li>
+                    <b>Számtani közép</b>: két szám átlaga
+                    <ul>
+                        <li>Képlete: $a_{k} = \frac{a+b}{2}$</li>
+                    </ul>
+                </li>
+                <li>
+                    <b>Mértani közép</b>: két nemnegatív szám szorzatának négyzetgyöke
+                    <ul>
+                        <li>Képlete: $g = \sqrt{a \cdot b}$</li>
+                    </ul>
+                </li>
+                <li><b>Tétel</b>: két szám számtani közepe mindig nagyobb vagy egyenlő, mint a mértani közepük ($a_{k} \ge g$).</li>
+                <li>
+                    <b>Példa</b>:
+                    <ul>
+                        <li>$a=4$</li>
+                        <li>
+                            $b=9$
+                            <ul>
+                                <li>$a_{k}=\frac{4+9}{2}=6.5$</li>
+                                <li>$g=\sqrt{4\cdot9}=6$</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <h3>2210 feladat</h3>
+            <h4>a.</h4>
+            <ul>
+                <li>$a=3$</li>
+                <li>
+                    <ul>
+                        $b=27$
+                        <li>$a_{k}=\frac{3+27}{2}=15$</li>
+                        <li>$g=\sqrt{3 \cdot 27}=9$</li>
+                    </ul>
+                </li>
+            </ul>
+            <h4>b.</h4>
+            <ul>
+                <li>$a=12$</li>
+                <li>
+                    <ul>
+                        $b=27$
+                        <li>$a_{k}=\frac{12+27}{2}=19.5$</li>
+                        <li>$g=\sqrt{12 \cdot 27}=18$</li>
+                    </ul>
+                </li>
+            </ul>
+            <h4>c.</h4>
+            <ul>
+                <li>$a=20$</li>
+                <li>
+                    <ul>
+                        $b=45$
+                        <li>$a_{k}=\frac{20+45}{2}=32.5$</li>
+                        <li>$g=\sqrt{20 \cdot 45}=30$</li>
+                    </ul>
+                </li>
+            </ul>
+            <h4>d.</h4>
+            <ul>
+                <li>$a=40$</li>
+                <li>
+                    <ul>
+                        $b=90$
+                        <li>$a_{k}=\frac{40+90}{2}=65$</li>
+                        <li>$g=\sqrt{40 \cdot 90}=60$</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr>
+
+            <h2>Másodfokú egyenlet megoldóképlete</h2>
+            <p>Az $ax^{2}+bx+c=0$ alakú egyenletek megoldására szolgál.</p>
+            <ul>
+                <li><b>Képlet</b>: $x_{1,2} = \frac{ -b \pm \sqrt{b^{2} -4 \cdot a\cdot c}}{2 \cdot a}$</li>
+                <li>
+                    <b>Példa</b>:
+                    <ul>
+                        <li>
+                            $x^{2}-5x+6=0$
+                            <ul>
+                                <li>$a=1$</li>
+                                <li>$b=-5$</li>
+                                <li>$c=6$</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            Behelyettesítés:
+                            <ul>
+                                <li>
+                                    $x_{1,2}=\frac{5\pm \sqrt{25-24}}{2}=$
+                                    <ul>
+                                        <li>$x_{1}=3$</li>
+                                        <li>$x_{2}=2$</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr>
+
+            <h2>Gyöktényezős vagy szorzat alak</h2>
+            <p>Ha az egyenlet gyökei $x_{1}$ és $x_{2}$, akkor a másodfokú kifejezés felírható szorzatként.</p>
+            <ul>
+                <li><b>Alak</b>: $a(x-x_{1})(x-x_{2})=0$</li>
+                <li><b>Példa</b>: Ha a gyökök 2 és 3, az egyenlet: $(x-2)(x-3)=0$</li>
+            </ul>
+            <h3>2168. feladat</h3>
+            <h4>a.</h4>
+            <ul>
+                <li>$x^{2}+x-6$;</li>
+                <li>
+                    $x^{2}+5x+6$
+                    <ul>
+                        <li>$a=1$</li>
+                        <li>$b=5$</li>
+                        <li>$c=6$</li>
+                        <ul>
+                            <li>$x_{1,2}=\frac{-5 \pm \sqrt{5^{2} - 4 \cdot 1 \cdot 6}}{2 \cdot 1}=$</li>
+                            <ul>
+                                <li>$D = 5^{2} - 4 \cdot 1 \cdot 6 = 1$</li>
+                            </ul>
+                            <li>$=\frac{-5 \pm  \sqrt{1}}{2}=$</li>
+                            <ul>
+                                <li>$x_{1} = \frac{-5+1}{2} = \frac{-4}{2} = -2$</li>
+                                <li>$x_{2} = \frac{-5-1}{2} = \frac{-6}{2} = -3$</li>
+                            </ul>
+                        </ul>
+                    </ul>
+                </li>
+                <li>Szorzattá alakítás:</li>
+                <ul>
+                    <li>$(x+2)(x+3)$</li>
+                </ul>
+            </ul>
+
+            <h4>b.</h4>
+            <h5>$x^{2}−2x−8$</h5>
+            <ul>
+                <li>$a=1$</li>
+                <li>$b=-2$</li>
+                <li>$c=-8$</li>
+                <ul>
+                    <li>$x_{1,2}=\frac{2 \pm \sqrt{(-2)^{2} - 4 \cdot 1 \cdot (-8)}}{2 \cdot 1}=$</li>
+                    <ul>
+                        <li>$D = (-2)^{2} - 4 \cdot 1 \cdot (-8) = 36$</li>
+                    </ul>
+                    <li>$\frac{2 \pm \sqrt{36}}{2}$</li>
+                    <ul>
+                        <li>$x_{1} = \frac{2 + \sqrt{36}}{2} = \frac{8}{2} = 4$</li>
+                        <li>$x_{2} = \frac{2 - \sqrt{36}}{2} =  \frac{-4}{2} = -2$</li>
+                    </ul>
+                </ul>
+                <li>Szorzattá alakítás:</li>
+                <ul>
+                    <li>$(x-4)(x+2)$</li>
+                </ul>
+            </ul>
+
+            <h4>c.</h4>
+            <h5>$x^{2}−6x+5$</h5>
+            <ul>
+                <li>$a = 1$</li>
+                <li>$b = (-6)$</li>
+                <li>$c = 5$</li>
+                <ul>
+                    <li>$x_{1,2} = \frac{6 \pm \sqrt{(-6)^{2} - 4 \cdot 1 \cdot 5 }}{2 \cdot 1} =$</li>
+                    <ul>
+                        <li>$D = (-6)^{2} - 4 \cdot 1 \cdot 5 = 16$</li>
+                    </ul>
+                    <li>$\frac{6 \pm \sqrt{16}}{2} =$</li>
+                    <ul>
+                        <li>$x_{1} = \frac{6 + \sqrt{16}}{2} = \frac{10}{2} = 5$</li>
+                        <li>$x_{2} = \frac{6 - \sqrt{16}}{2} = \frac{2}{2} = 1$</li>
+                    </ul>
+                </ul>
+                <li>Szorzattá alakítás:</li>
+                <ul>
+                    <li>$(x - 5)(x - 1)$</li>
+                </ul>
+            </ul>
+
+            <h2>2169 feladat</h2>
+            <h3>a.</h3>
+            <ul>
+                <li>$3$ és $4$</li>
+                <ul>
+                    <li>$(x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12$</li>
+                </ul>
+            </ul>
+
+            <h3>b.</h3>
+            <ul>
+                <li>$-2$ és $7$</li>
+                <ul>
+                    <li>$(x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14$</li>
+                </ul>
+            </ul>
+
+            <h3>c.</h3>
+            <ul>
+                <li>$-3$ és $-6$</li>
+                <ul>
+                    <li>$(x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18$</li>
+                </ul>
+            </ul>
+
+            <h3>d.</h3>
+            <ul>
+                <li>$1$ és $-5$</li>
+                <ul>
+                    <li>$(x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5$</li>
+                </ul>
+            </ul>
+
+            <hr>
+            
+            <h2>Teljes négyzetalak</h2>
+            <p>A kifejezést $(x \pm d)^{2}+e$ alakra hozzuk. Ez segít a függvény ábrázolásánál (szélsőérték keresésnél).</p>
+            <ul>
+                <li><b>Példa</b>: $x^{2}+6x+10=(x+3)^{2}-9+10=(x+3)^{2}+1$</li>
+            </ul>
+
+            <hr>
+
+            <h2>Másodfokú visszavezethető magasabb fokszámú egyenletek</h2>
+            <p>Olyan egyenletek (pl. negyedfokú), ahol új változót vezetünk be (helyettesítés).</p>
+            <ul>
+                <li>* **Példa**: $x^{4}−5x^{2}+4=0$.</li>
+                <ul>
+                    <li>Legyen $a=x^{2}$.</li>
+                    <li>Ekkor $a^{2}−5a+4=0$.</li>
+                    <li>Megoldjuk a-ra ($a1​=1,a2​=4$),</li>
+                    <li>majd visszatérünk x-re: $x^{2}=1 \implies x=\pm 1$ és $x2=4 \implies x=\pm 2$.</li>
+                </ul>
+            </ul>
+
+            <hr>
+
+            <h2>Másodfokú egyenlőtlenségek</h2>
+            <p>Itt nem csak pontokat (gyököket) keresünk, hanem tartományokat.</p>
+            <ul>
+                <li>Lépések:</li>
+                <ol>
+                    <li>Nullára rendezzük.</li>
+                    <li>Megoldjuk egyenletként.</li>
+                    <li>Vázoljuk a parabolát és leolvassuk a tartományt (hol van a tengely felett/alatt).</li>
+                </ol>
+                <li><b>Példa</b>: $x^{2} − 4 < 0$. </li>
+                <ul>
+                    <li>A gyökök −2 és 2.</li>
+                    <li>Mivel a parabola felfelé nyitott, a megoldás: $−2 < x < 2$.</li>
+                </ul>
+            </ul>
+
+            <hr>
+
+            <h2>Négyzetgyökös egyenletek</h2>
+            <p>Ahol az ismeretlen a gyökjel alatt van.</p>
+            <ul>
+                <li>Fontos: Mindig kell értelmezési tartomány (gyök alatt nem állhat negatív) és a végén ellenőrzés (a négyzetre emelés miatt hamis gyökök keletkezhetnek).</li>
+                <li><b>Példa</b>: $x+2​=3 \implies x+2=9 \implies x=7$.</li>
+            </ul>
+
+            <hr>
+
+            <h2>Diszkrimináns fogalma</h2>
+            <p>A megoldóképletben a gyök alatti kifejezés:</p>
+            <p>$D = b^{2}-4\cdot a\cdot c$</p>
+            <p>ez határozza meg a megoldások számát.</p>
+            <ul>
+                <li>Ha $D>0$: két különböző megoldás</li>
+            </ul>
+            <img src="../../../assets/images/a10/matematika-diszkriminans-001.svg" alt="diszkrimináns 1">
+            <ul>
+                <li>Ha $D=0$: egy valós megoldás (két egybeeső)</li>
+            </ul>
+            <img src="../../../assets/images/a10/matematika-diszkriminans-002.svg" alt="diszkrimináns 2">
+            <ul>
+                <li>Ha $D < 0$: nincs valós megoldás</li>
+            </ul>
+            <img src="../../../assets/images/a10/matematika-diszkriminans-003.svg" alt="diszkrimináns 3">
+
+            <hr>
+
+            <h2>Másodfokú függvény</h2>
+            <p>Az $f(x)=ax^{2}+bx+c$ függvény grafikonja egy parabola.</p>
+            <ul>
+                <li>Ha $a > 0$, a parabola felfelé nyitott (minimuma van).</li>
+                <li>Ha $a < 0$, lefelé nyitott (maximuma van).</li>
+            </ul>
+
+            <hr>
+
+            <h2>Szöveges egyenletek</h2>
+            <p>Olyan feladatok, ahol a szöveg alapján kell felállítani egy másodfokú egyenletet. Gyakori témák: számok kapcsolata, téglalap oldalai, munkavégzés.</p>
+            <ul>
+                <li><b>Tipp</b>: Jelöld el az egyik ismeretlent x-szel, és a többit írd fel ennek segítségével.</li>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>
