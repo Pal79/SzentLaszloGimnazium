@@ -20,5 +20,5 @@
 | [Berzsenyi Dániel](./irodalom/berzsenyi-daniel.md) |
 | [Romantika](./irodalom/romantika.md) |
 | [Háromnegyed éves vizsga](./pdf/irodalom-haromnegyedeves-vizsga.pdf) |
-| []() |
+| [Puskin](./irodalom/puskin.md) |
 | [Katona József](./irodalom/katona-jozsef.md) |
