@@ -49,7 +49,48 @@ Gertudis közli Ottóval, hogy feltűnő viselkedése miatt másnap távoznia ke
     - Rá akarja bízni feleségét, hogy vigye haza.
     - Ottó fél Bánk bosszújától és Gertrudisz haragjától, Biberach-hoz fordul segítségért, ő azonban nem hajlandó segíteni ezért Ottó leszúrja.
 4. felvonás:
-    - Gertrudisz hatalmi terveket szövöget, majd fogadja a hozzá érkezőket, Melindát hívatja, de látva az asszony állapotát szeretné csendben eltávolítani az udvarból. Nikhá érkezik a békétlenektől, megpróbálja meggyőzni a királynét, hogy változtasson uralkodói magatartásán, adja meg a magyaroknak ami nekik jár.
+    - Gertrudisz hatalmi terveket szövöget, majd fogadja a hozzá érkezőket. Melindát hívatja, de látva az asszony állapotát szeretné csendben eltávolítani az udvarból.
+    - Nikhá érkezik a békétlenektől, megpróbálja meggyőzni a királynét, hogy változtasson uralkodói magatartásán, adja meg a magyaroknak ami nekik jár.
+    - Gertrudisz elfogad több békétlent, majd Bánk érkezik Tiborccal, Melindát keresik.
+    - Gertrudisz behozatja az asszonyt aki majd Tiborccal távozik.
+    - A királyné számadásra szólítja fel Bánkot, de Bánk vádolja a királynét mindazzal, amit hallott a békétlenektől, Tiborctól, és amit tapasztalt országjáró útján.
+    - Melindáról kezd el beszélni, amikor egy pillanatra megjelenik Ottó, Gertrudisz tőrt ránt, de Bánk lefegyverezi és megöli Gertrudiszt.
+    - Myska-bán fültanúja Gertrudisz utolsó szavainak, melyek szerint Ottót nevezi meg gyilkosának.
+    - A hazatérő királyi had összecsap a békétlenekkel, közben Ottónak sikerül elmenekülnie.
+5. felvonás:
+    - Gertrudsiz felravatalozva, a király gyászolja. Elfogják Peturt, őt gondolják Gertrudisz gyilkosának, megérkezik Bánk mindent bevall a király előtt a király párbajozni akar Bánkkal, de ő visszautasítja, Tiborc érkezik Melinda holttestével, Ottó felbérelt emberei ölték meg. A király belátja felesége erőszakos halálának jogosságát.
+
+#### Szállóigék:
+"A magyar bor olyan,  
+mint a magyar barátság - mentől óbb  
+annál erősebb"
+
+"Aki száz meg százezert rabol  
+bírája lészen annak akit a  
+szükség garast rabolni kényszerített"
+
+"Egy királynak  
+kell látni minden könnyeket: magának  
+könnyezni nem szabad"
+
+"Dícsérd csupán  
+múltával a napot"
+
+"Nevetni vagy pedig könnyezni; az mindegy az asszonyoknál"
+
+"Nincs a teremtésben vesztes, csak én"
+
+"Ott van a haza, hol a haszon"
+
+"két fátyolt szakasztok el  
+hazámról és becsületemről"
+
+"Épülj fel! Izmosodj meg! Gondolat!"
+
+"Magyarok! Előőbb mint sem magyar hazánk -  
+előbb esett el méltán a királyné"
+
+<!-- 30.-án nem jövünk, 7.-én jövünk -->
 
 ---
 
