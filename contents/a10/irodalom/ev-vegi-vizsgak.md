@@ -5,6 +5,10 @@
 
 ---
 
+# Írásbeli vizsga anyagok
+
+---
+
 # Katona József (1791–1830)
 ## Bánk bán
 Keletkezéstörténet:  
@@ -236,6 +240,52 @@ Ha ezek mind teljesülnek, akkor mondhatjuk, hogy a nyomtatott betű betöltött
 - **9–41. sor:** Éles hangú töprengés ("Miért e lom?"). Vörösmarty kétségbe vonja a kultúra értékét: ha a könyvek nem teszik jobbá az embert, akkor feleslegesek. Pesszimista, elkeseredett zárlat: "Iszonyú hazugság mindenütt!" A könyvtár az emberiség bűneinek és nyomorának gyűjteménye ("országok rongya").
 - **42–48. sor:** Kérdések sorozata. Előbbre vitte-e a világot a tudomány? Boldogabb lett-e az emberiség a könyvek által? A válasz kétségbeesetten tagadó.
 - **49–106. sor:** A válságon való felülemelkedés és a feladatkijelölés. A költő elutasítja a teljes passzivitást és a nihilizmust. Bár a világ nem tökéletes, a küzdelmet nem szabad feladni. Megfogalmazódik a híres program: *"Mi dolgunk a világon? Küzdeni / És a jövőnek biztosítani."* Nem az egész emberiséget kell egyszerre megváltani, hanem a saját hazánkért, szűkebb közösségünkért kell tenni (nemzetfejlesztés, humanizmus). A vers végül optimista, megnyugvó hangnemben zárul.
+
+---
+---
+---
+---
+
+# Szóbeli vizsga: + az írásbeli vizsga anyagok
+
+# Csokonai Vitéz Mihály 1773 - 1805
+## A Reményhez
+Keletkezése: 
+- a Lilla-verseket 1803-ban gyűjtötte kötetbe a költő a kötet záró darabja a vers
+- 1803-ban keletkezett
+Műfaja: 
+- Óda
+- Elégia
+- Dal
+Hangneme:
+- kevert
+
+1. versszak - a remény bemutatása
+2. versszak - boldogság: tavaszi virágoskert 
+3. versszak - boldogtalanság: hervadó, pusztuló kert
+4. versszak - búcsú a reménytől, búcsú az élettől - reménytelenség
+
+---
+
+# Berzsenyi Dániel (1776-1836)
+## A közelítő tél
+Keletkezése: 1804-1808
+Műfaja: elégia
+Vers típusa: időszembesítő vers
+- `1.-3. versszak`: az őszi táj bemutatása negatív tájleírással (hat tagadó szó)
+- `4. versszak`: lírai elmélkedés az időről
+- `5.-6. versszak`: az előző versszak tartalmát önmagára vonatkoztatja, szomorú lemondással veszi tudomásul, hogy észrevétlenül kihasználatlanul örökre elmúlt ifjúsága, az emberi élet múlandó, míg a természetben örök a körforgás.
+## Magyarokhoz 1.
+Keletkezése: végső formája 1810  
+Műfaja: hazafias óda  
+Kulcsszava: az erkölcs. Múltbeli tiszta <-> Mostani veszni tért
+- `1.` versszak: a vers szerkesztő elvét alkotó szembenállás megjelenik amely erkölcsi ítélet is: "Romlásnak indult, hajdan erős magyar"
+- `2.` versszak: a múlt kemény helytállását idézi: Buda vára, a nemzeti lét, függetlenség jelképe
+- `3. versszak`: ezt rombolja le a veszni tért erkölcs és az undok vipera fajzatok
+- `4.-6. versszak`: a múlt bizonyító tényei: Buda várát nem rombolhatta le sem a külső hatalom sem a testvérháború, mert a régi erkölcs büszkén szembeszállt
+- `7.-10. versszak`: jelen bűneinek felsorolása, a lassú halál okozója, a belső szétzüllés és a tiszta erkölcs eltűnése
+- `11.-12. versszak`: dicső múlt nagysága Attila, Árpád, Hunyadi harcainak említése 
+- `13.-14. versszak`: a költő lemondó sóhajjal összegzi, fájdalmas tapasztalatait, játékszerek vagyunk az örökké változó sors a "tündérszerencse" kezében
 
 ---
 
