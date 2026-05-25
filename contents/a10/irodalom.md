@@ -23,3 +23,5 @@
 | [Puskin](./irodalom/puskin.md) |
 | [Katona József](./irodalom/katona-jozsef.md) |
 | [Vörösmarty Mihály](./irodalom/vorosmarty-mihaly.md) |
+| [Petőfi Sándor](./irodalom/petofi-sandor.md) |
+| [Év végi vizsga](./irodalom/ev-vegi-vizsgak.md) |
