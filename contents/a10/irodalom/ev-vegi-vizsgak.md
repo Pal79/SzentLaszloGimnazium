@@ -75,7 +75,7 @@ előbb esett el méltán a királyné." (Bánk bán)
 ---
 
 # Puskin (1799-1837)
-## Anyegin
+## Anyegin
 Keletkezése: **1823** Kisinyov - **1830** anyja birtokán  
 Műfaja: verses regény  
 Strófaszerkezete: 14 sor meghatározott rímképlettel (***ababccddeffegg***)  
